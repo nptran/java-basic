@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="spring-many-to-many-sample"/>
-<aop-project name="MyStudent-demo"/>
-</aop-reference-model>

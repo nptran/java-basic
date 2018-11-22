@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move package &apos;com.techmater.sample.model&apos; to &apos;JSPSample/src/main/java/com.techmaster.sample&apos;&#x0D;&#x0A;- Original project: &apos;MavenSample&apos;&#x0D;&#x0A;- Destination element: &apos;JSPSample/src/main/java/com.techmaster.sample&apos;&#x0D;&#x0A;- Original element: &apos;MavenSample/src/main/java/com.techmater.sample.model&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=JSPSample/src\/main\/java&lt;com.techmaster.sample" element1="/src\/main\/java&lt;com.techmater.sample.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1526476503664" version="1.0"/>
-</session>

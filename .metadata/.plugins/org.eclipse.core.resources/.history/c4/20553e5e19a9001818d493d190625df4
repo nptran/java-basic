@@ -1,7 +1,0 @@
-package baitapso1;
-
-public class Bai17 {
-	public static void main(String[] args) {
-		System.out.println(Function.factorial(5, 5));
-	}
-}
