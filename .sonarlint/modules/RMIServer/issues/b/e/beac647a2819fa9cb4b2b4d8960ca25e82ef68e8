@@ -1,12 +1,0 @@
-
-Xsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH³?RMINORZVULNERABILITY
-„squid:CallToDeprecatedMethod":Remove this use of "RMISecurityManager"; it is deprecated.(éŸÉÖþÿÿÿÿ8Ø¬¥§´,Hµ?RMINORZ
-CODE_SMELL
-l
-squid:S106$"9Replace this use of System.out or System.err by a logger.(Ù‡³ÿ8Ø¬¥§´,HÉ?RMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(¡ãŠ¶H¶?RMAJORZ
-CODE_SMELL
-¶squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à§Ó«ùÿÿÿÿH´?RCRITICALZ
-CODE_SMELL

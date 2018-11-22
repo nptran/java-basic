@@ -1,13 +1,0 @@
-
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ª»ƒ€şÿÿÿÿHüHRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(á¬óÑıÿÿÿÿHûHRMAJORZ
-CODE_SMELL
-{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ‘¯HşHRMINORZ
-CODE_SMELL
-Šsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(á¬óÑıÿÿÿÿ8£˜“¸,HIRMAJORZ
-CODE_SMELL
-ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°²ÙH€IRMINORZ
-CODE_SMELL

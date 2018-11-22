@@ -1,229 +1,0 @@
-
-_squid:S1199+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿH³RMINORZ
-CODE_SMELL
-  squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢ºœøúÿÿÿÿH´RMAJORZ
-CODE_SMELL
-_squid:S1199P"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHµRMINORZ
-CODE_SMELL
-š squid:ForLoopCounterChangedCheckr"XRefactor the code in order to not assign to this loop counter from within the loop body.(İïïíH¶RMAJORZ
-CODE_SMELL
-d
-squid:S106`"9Replace this use of System.out or System.err by a logger.(Œæç2H·RMAJORZ
-CODE_SMELL
-j
-squid:S106b"9Replace this use of System.out or System.err by a logger.(÷ßªüÿÿÿÿH¸RMAJORZ
-CODE_SMELL
-k
-squid:S106û"9Replace this use of System.out or System.err by a logger.(ÒÛûÿÿÿÿH¹RMAJORZ
-CODE_SMELL
-e
-squid:S106n"9Replace this use of System.out or System.err by a logger.(Ï›”HºRMAJORZ
-CODE_SMELL
-bsquid:EmptyStatementUsageCheck¯"Remove this empty statement.(ôŸìúÿÿÿÿH»RMINORZ
-CODE_SMELL
-j
-squid:S106I"9Replace this use of System.out or System.err by a logger.(¢İ×¨øÿÿÿÿH¼RMAJORZ
-CODE_SMELL
-j
-squid:S106v"9Replace this use of System.out or System.err by a logger.(§Äÿ¾øÿÿÿÿH½RMAJORZ
-CODE_SMELL
-‰squid:S1192""YDefine a constant instead of duplicating this literal "%-5s%-8s%-5s%-3d%-8s%s%n" 5 times.(èéı¾H¾RCRITICALZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÊ’çH¿RMAJORZ
-CODE_SMELL
-f
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ï°âëHÀRMAJORZ
-CODE_SMELL
-f
-squid:S106„"9Replace this use of System.out or System.err by a logger.(Ï›”HÁRMAJORZ
-CODE_SMELL
-z
-squid:S128¡"LEnd this switch case with an unconditional break, return or throw statement.(³‘ÀPHÂRBLOCKERZ
-CODE_SMELL
-j
-squid:S106k"9Replace this use of System.out or System.err by a logger.(êæÖúÿÿÿÿÿHÃRMAJORZ
-CODE_SMELL
-› squid:ForLoopCounterChangedCheck©"XRefactor the code in order to not assign to this loop counter from within the loop body.(êˆ²HÄRMAJORZ
-CODE_SMELL
-f
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ï›”HÅRMAJORZ
-CODE_SMELL
-f
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(ÃĞ„èHÆRMAJORZ
-CODE_SMELL
-k
-squid:S106Ç"9Replace this use of System.out or System.err by a logger.(ÈÇÈâøÿÿÿÿHÇRMAJORZ
-CODE_SMELL
-ƒsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 138 to the 15 allowed.(Çµí‘HÈRCRITICALZ
-CODE_SMELL
-j
-squid:S106-"9Replace this use of System.out or System.err by a logger.(–Ò³­şÿÿÿÿHÉRMAJORZ
-CODE_SMELL
-e
-squid:S106;"9Replace this use of System.out or System.err by a logger.(›ñáÀHÊRMAJORZ
-CODE_SMELL
-
-squid:S128u"LEnd this switch case with an unconditional break, return or throw statement.(³ŞÔéúÿÿÿÿHËRBLOCKERZ
-CODE_SMELL
-f
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ÃĞ„èHÌRMAJORZ
-CODE_SMELL
-šsquid:S1192p"eDefine a constant instead of duplicating this literal "Continue editing this profile?\t Y/N" 6 times.(¬…ŒúşÿÿÿÿHÍRCRITICALZ
-CODE_SMELL
-j
-squid:S106D"9Replace this use of System.out or System.err by a logger.(šèÆıÿÿÿÿHÎRMAJORZ
-CODE_SMELL
-f
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(Ï›”HÏRMAJORZ
-CODE_SMELL
-Œsquid:S1192³"VDefine a constant instead of duplicating this literal "Can't find this code!" 3 times.(úŸüåûÿÿÿÿHĞRCRITICALZ
-CODE_SMELL
-€
-squid:S128‹"LEnd this switch case with an unconditional break, return or throw statement.(µ‰ÃøÿÿÿÿHÑRBLOCKERZ
-CODE_SMELL
-e
-squid:S106d"9Replace this use of System.out or System.err by a logger.(ó€Ô¯HÒRMAJORZ
-CODE_SMELL
-j
-squid:S1063"9Replace this use of System.out or System.err by a logger.(±—£şùÿÿÿÿHÓRMAJORZ
-CODE_SMELL
-k
-squid:S106³"9Replace this use of System.out or System.err by a logger.(úŸüåûÿÿÿÿHÔRMAJORZ
-CODE_SMELL
-f
-squid:S106»"9Replace this use of System.out or System.err by a logger.(·ĞƒHÕRMAJORZ
-CODE_SMELL
-f
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.(—êæ…HÖRMAJORZ
-CODE_SMELL
-k
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(‚Ò öıÿÿÿÿH×RMAJORZ
-CODE_SMELL
-
-squid:S128j"LEnd this switch case with an unconditional break, return or throw statement.(­…–©üÿÿÿÿHØRBLOCKERZ
-CODE_SMELL
-{
-squid:S128–"LEnd this switch case with an unconditional break, return or throw statement.(”åË˜HÙRBLOCKERZ
-CODE_SMELL
-k
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(ËÏ²ÜÿÿÿÿÿHÚRMAJORZ
-CODE_SMELL
-€
-squid:S128€"LEnd this switch case with an unconditional break, return or throw statement.(œñ™äüÿÿÿÿHÛRBLOCKERZ
-CODE_SMELL
-k
-squid:S106×"9Replace this use of System.out or System.err by a logger.(¢Î´ÂûÿÿÿÿHÜRMAJORZ
-CODE_SMELL
-j
-squid:S106p"9Replace this use of System.out or System.err by a logger.(¬…ŒúşÿÿÿÿHİRMAJORZ
-CODE_SMELL
-k
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(¦í‹øÿÿÿÿHŞRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÕ¶kHßRMAJORZ
-CODE_SMELL
-f
-squid:S106§"9Replace this use of System.out or System.err by a logger.(ÃĞ„èHàRMAJORZ
-CODE_SMELL
-e
-squid:S106/"9Replace this use of System.out or System.err by a logger.(Ç×ÆÊHáRMAJORZ
-CODE_SMELL
-f
-squid:S106†"9Replace this use of System.out or System.err by a logger.(ÃĞ„èHâRMAJORZ
-CODE_SMELL
-bsquid:EmptyStatementUsageCheckÍ"Remove this empty statement.(ôŸìúÿÿÿÿHãRMINORZ
-CODE_SMELL
-k
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(ßÓéíûÿÿÿÿHäRMAJORZ
-CODE_SMELL
-k
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(æ¢ò¯şÿÿÿÿHåRMAJORZ
-CODE_SMELL
-bsquid:EmptyStatementUsageCheck°"Remove this empty statement.(ôŸìúÿÿÿÿHæRMINORZ
-CODE_SMELL
-j
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(Ùò†¬şÿÿÿÿHçRMAJORZ
-CODE_SMELL
-j
-squid:S106_"9Replace this use of System.out or System.err by a logger.(ÂİÃÍúÿÿÿÿHèRMAJORZ
-CODE_SMELL
-j
-squid:S106^"9Replace this use of System.out or System.err by a logger.(º¹œ¾şÿÿÿÿHéRMAJORZ
-CODE_SMELL
-squid:S1192n"`Define a constant instead of duplicating this literal "=====Updated Successfully!=====" 6 times.(Ï›”HêRCRITICALZ
-CODE_SMELL
-e
-squid:S106­"9Replace this use of System.out or System.err by a logger.(Î‹ğHëRMAJORZ
-CODE_SMELL
-j
-squid:S1067"9Replace this use of System.out or System.err by a logger.(±Î‚ÿÿÿÿÿHìRMAJORZ
-CODE_SMELL
-`squid:S1199º"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHíRMINORZ
-CODE_SMELL
-e
-squid:S106a"9Replace this use of System.out or System.err by a logger.(úÂ¤¨HîRMAJORZ
-CODE_SMELL
-f
-squid:S106—"9Replace this use of System.out or System.err by a logger.(°¸áÜHïRMAJORZ
-CODE_SMELL
-e
-squid:S106["9Replace this use of System.out or System.err by a logger.(ş²×£HğRMAJORZ
-CODE_SMELL
-e
-squid:S106@"9Replace this use of System.out or System.err by a logger.(óí£ğHñRMAJORZ
-CODE_SMELL
-k
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(úŸüåûÿÿÿÿHòRMAJORZ
-CODE_SMELL
-k
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(ì®ÖÿùÿÿÿÿHóRMAJORZ
-CODE_SMELL
-  squid:ForLoopCounterChangedCheckˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§ÀÎÜøÿÿÿÿHôRMAJORZ
-CODE_SMELL
-e
-squid:S106{"9Replace this use of System.out or System.err by a logger.(ÃĞ„èHõRMAJORZ
-CODE_SMELL
-f
-squid:S106ø"9Replace this use of System.out or System.err by a logger.(¨ëÅHöRMAJORZ
-CODE_SMELL
-€squid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰Ÿ¬ÛüÿÿÿÿH÷RMINORZ
-CODE_SMELL
-f
-squid:S106â"9Replace this use of System.out or System.err by a logger.(¢ñèÖHøRMAJORZ
-CODE_SMELL
-f
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(œ¦‚ŸHùRMAJORZ
-CODE_SMELL
-k
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(ƒœ½İùÿÿÿÿHúRMAJORZ
-CODE_SMELL
-e
-squid:S106""9Replace this use of System.out or System.err by a logger.(èéı¾HûRMAJORZ
-CODE_SMELL
-› squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(­¬ŒHüRMAJORZ
-CODE_SMELL
-f
-squid:S106š"9Replace this use of System.out or System.err by a logger.(Ï›”HıRMAJORZ
-CODE_SMELL
-f
-squid:S106±"9Replace this use of System.out or System.err by a logger.(ş²×£HşRMAJORZ
-CODE_SMELL
-e
-squid:S106y"9Replace this use of System.out or System.err by a logger.(Ï›”HÿRMAJORZ
-CODE_SMELL
-f
-squid:S106ı"9Replace this use of System.out or System.err by a logger.(¨õİÀH€RMAJORZ
-CODE_SMELL
-š squid:ForLoopCounterChangedCheck}"XRefactor the code in order to not assign to this loop counter from within the loop body.(åª®ÌHRMAJORZ
-CODE_SMELL
-j
-squid:S106c"9Replace this use of System.out or System.err by a logger.(³ëûÿÿÿÿH‚RMAJORZ
-CODE_SMELL
-k
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(úŸüåûÿÿÿÿHƒRMAJORZ
-CODE_SMELL
-d
-squid:S106"9Replace this use of System.out or System.err by a logger.(İŸ§H„RMAJORZ
-CODE_SMELL

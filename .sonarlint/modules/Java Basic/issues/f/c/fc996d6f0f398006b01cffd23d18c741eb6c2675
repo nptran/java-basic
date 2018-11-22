@@ -1,18 +1,0 @@
-
-nsquid:S1854"5Remove this useless assignment to local variable "c".(×¬ì¸úÿÿÿÿ8ˆ¸ô¢ä,HËlRMAJORZ
-CODE_SMELL
-ssquid:S1118":Add a private constructor to hide the implicit public one.(¾ìÆ”üÿÿÿÿ8Ì£ä,HÌlRMAJORZ
-CODE_SMELL
-Tsquid:S1659" Declare "kt" on a separate line.(ÊÅÿá8ˆ¸ô¢ä,HÍlRMINORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(Í¦²öùÿÿÿÿ8ˆ¸ô¢ä,HÎlRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(–ôëüÿÿÿÿ8ˆ¸ô¢ä,HÏlRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼®“Õ8ˆ¸ô¢ä,HĞlRMAJORZ
-CODE_SMELL
-_squid:S1481"&Remove this unused "c" local variable.(×¬ì¸úÿÿÿÿ8ˆ¸ô¢ä,HÑlRMINORZ
-CODE_SMELL

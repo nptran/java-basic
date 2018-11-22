@@ -1,61 +1,0 @@
-
-l
-squid:S106-"9Replace this use of System.out or System.err by a logger.(àÙô¡8ìËñæ¦,Hö	RMAJORZ
-CODE_SMELL
-q
-squid:S106_"9Replace this use of System.out or System.err by a logger.(à ÊÍÿÿÿÿÿ8’¤ÿæ¦,H÷	RMAJORZ
-CODE_SMELL
-asquid:S1199"-Extract this nested code block into a method.(õŠúƒ8ìËñæ¦,Hø	RMINORZ
-CODE_SMELL
-q
-squid:S106)"9Replace this use of System.out or System.err by a logger.(áıéÌıÿÿÿÿ8ìËñæ¦,Hù	RMAJORZ
-CODE_SMELL
-l
-squid:S106`"9Replace this use of System.out or System.err by a logger.(ÁÓÄÔ8µú®ç¦,Hú	RMAJORZ
-CODE_SMELL
-q
-squid:S106a"9Replace this use of System.out or System.err by a logger.(ş…øşùÿÿÿÿ8ìËñæ¦,Hû	RMAJORZ
-CODE_SMELL
-fsquid:S1199$"-Extract this nested code block into a method.(–ÕÃìşÿÿÿÿ8ìËñæ¦,Hü	RMINORZ
-CODE_SMELL
-q
-squid:S106I"9Replace this use of System.out or System.err by a logger.(‡ŒŞ¤şÿÿÿÿ8ìËñæ¦,Hı	RMAJORZ
-CODE_SMELL
-l
-squid:S106b"9Replace this use of System.out or System.err by a logger.(ÁÒÕ8ìËñæ¦,Hş	RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(Á®š¾8ìËñæ¦,Hÿ	RMAJORZ
-CODE_SMELL
-q
-squid:S106P"9Replace this use of System.out or System.err by a logger.(³ôèõıÿÿÿÿ8ìËñæ¦,H€
-RMAJORZ
-CODE_SMELL
-q
-squid:S106U"9Replace this use of System.out or System.err by a logger.(úŸøÖÿÿÿÿÿ8ìËñæ¦,H
-RMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÔæÏÏùÿÿÿÿ8ìËñæ¦,H‚
-RMAJORZ
-CODE_SMELL
-fsquid:S1199O"-Extract this nested code block into a method.(ÕõÜÑıÿÿÿÿ8ìËñæ¦,Hƒ
-RMINORZ
-CODE_SMELL
-l
-squid:S1061"9Replace this use of System.out or System.err by a logger.(“³§°8ìËñæ¦,H„
-RMAJORZ
-CODE_SMELL
-‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8µú®ç¦,H…
-RCRITICALZ
-CODE_SMELL
-fsquid:S1199;"-Extract this nested code block into a method.(„°¹Íûÿÿÿÿ8ìËñæ¦,H†
-RMINORZ
-CODE_SMELL
-q
-squid:S106<"9Replace this use of System.out or System.err by a logger.(”Àøñüÿÿÿÿ8ìËñæ¦,H‡
-RMAJORZ
-CODE_SMELL
-fsquid:S1199T"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8ìËñæ¦,Hˆ
-RMINORZ
-CODE_SMELL

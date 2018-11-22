@@ -1,22 +1,0 @@
-
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(°¤Ø¶øÿÿÿÿ8«ÔñšË,HŠVRMAJORZ
-CODE_SMELL
-bsquid:S1125%")Remove the literal "false" boolean value.(â¸Ššûÿÿÿÿ8¬¾¡›Ë,H‹VRMINORZ
-CODE_SMELL
-q
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ÎéÉëûÿÿÿÿ8»²›Ë,HŒVRMAJORZ
-CODE_SMELL
-zsquid:S34570"AFormat specifiers should be used instead of string concatenation.(ÎéÉëûÿÿÿÿ8»²›Ë,HVRMAJORZ
-CODE_SMELL
-q
-squid:S106$"9Replace this use of System.out or System.err by a logger.(‰œ¼ãşÿÿÿÿ8«ÔñšË,HVRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤™¹‹8«ÔñšË,HVRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸é¥º8«ÔñšË,HVRMAJORZ
-CODE_SMELL
-rsquid:S2696&"6Make the enclosing method "static" or remove this set.(¿©Ö şÿÿÿÿ8«ÔñšË,H‘VRCRITICALZ
-CODE_SMELL

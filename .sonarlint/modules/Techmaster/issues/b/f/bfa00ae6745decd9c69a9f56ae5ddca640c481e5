@@ -1,43 +1,0 @@
-
-Qsquid:S1659
-"Declare "c" on a separate line.(Ä¤ªŸøÿÿÿÿHòTRMINORZ
-CODE_SMELL
-Qsquid:S1659
-"Declare "d" on a separate line.(Ä¤ªŸøÿÿÿÿHóTRMINORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿHôTRMAJORZ
-CODE_SMELL
-j
-squid:S106#"9Replace this use of System.out or System.err by a logger.(óİ÷úÿÿÿÿHõTRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(áÇØÌúÿÿÿÿHöTRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(êÍ¢•ÿÿÿÿÿH÷TRMAJORZ
-CODE_SMELL
-l
-squid:S106 "9Replace this use of System.out or System.err by a logger.(â°ÇĞ8³äñœ¥,HøTRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ö“«HùTRMAJORZ
-CODE_SMELL
-j
-squid:S106&"9Replace this use of System.out or System.err by a logger.(†åÈûÿÿÿÿHúTRMAJORZ
-CODE_SMELL
-Qsquid:S1659
-"Declare "b" on a separate line.(Ä¤ªŸøÿÿÿÿHûTRMINORZ
-CODE_SMELL
-Šsquid:S1450"QRemove the "lv" field and declare it as a local variable in the relevant methods.( ì©ñıÿÿÿÿ8¯œÔœ¥,HüTRMINORZ
-CODE_SMELL
-gsquid:S1118":Add a private constructor to hide the implicit public one.(¡¾í¹HıTRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(İ‘ï±ûÿÿÿÿHşTRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ8³äñœ¥,HÿTRMAJORZ
-CODE_SMELL
-‰squid:S1192"MDefine a constant instead of duplicating this literal "\t\t%s Level" 4 times.(êÍ¢•ÿÿÿÿÿ8éÖôœ¥,H€URCRITICALZ
-CODE_SMELL

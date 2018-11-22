@@ -1,41 +1,0 @@
-
-q
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(Ÿ‹Ó²ùÿÿÿÿ8å§Óû±,HŸ8RMAJORZ
-CODE_SMELL
-ˆsquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢İ¾¥ÿÿÿÿÿ8å§Óû±,H¦8RMINORZ
-CODE_SMELL
-€squid:UselessImportCheck"?Remove this unused import 'com.studentmanagement.model.Person'.(Ø‡§ã8âëü±,H§8RMINORZ
-CODE_SMELL
-ssquid:S2259$"AA "NullPointerException" could be thrown; "obO" is nullable here.(ÌÆ„¼üÿÿÿÿ8å§Óû±,H¢8RMAJORZBUG
-„squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ìù°şÿÿÿÿ8¨¸ ı±,Hœ8RMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(Øâ¬Ÿ8¨¸ ı±,H¬8RMAJORZ
-CODE_SMELL
-_squid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šÃ¿°±,H£8RMINORZVULNERABILITY
-squid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ñ»¡è8¨¸ ı±,H™8RMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(™ Ÿïûÿÿÿÿ8¨¸ ı±,H¨8RMAJORZ
-CODE_SMELL
-wsquid:UselessImportCheck"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8å§Óû±,H¡8RMINORZ
-CODE_SMELL
-€squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8å§Óû±,H©8RMINORZ
-CODE_SMELL
-{squid:S20953"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¨‰'8¨¸ ı±,H­8RBLOCKERZBUG
-wsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8å§Óû±,H«8RMINORZ
-CODE_SMELL
-ssquid:S2118"AMake the "java.util.List" class "Serializable" or don't write it.(­€é“øÿÿÿÿ8æÂÓı±,H8RMAJORZBUG
-|squid:S2095*"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(“„×óşÿÿÿÿ8äüı°±,H¥8RBLOCKERZBUG
-ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¿Ÿçûÿÿÿÿ8å§Óû±,H›8RMINORZ
-CODE_SMELL
-l
-squid:S106a"9Replace this use of System.out or System.err by a logger.(÷àˆ“8å§Óû±,H®8RMAJORZ
-CODE_SMELL
-¥squid:S1192"oDefine a constant instead of duplicating this literal "C://Users//Admin//Desktop//student-details.txt" 3 times.(Èí‰
-8òü±,Hš8RCRITICALZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÈ´™úÿÿÿÿH8RMINORZ
-CODE_SMELL
-_squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨¸ ı±,Hª8RMINORZVULNERABILITY
-ssquid:S2259="AA "NullPointerException" could be thrown; "obI" is nullable here.(®¢ëäøÿÿÿÿ8ïú°ı±,H 8RMAJORZBUG
-ˆsquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”õÑ¬ıÿÿÿÿ8äüı°±,H¤8RMINORZ
-CODE_SMELL

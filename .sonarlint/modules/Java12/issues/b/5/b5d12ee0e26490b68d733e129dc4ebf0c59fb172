@@ -1,28 +1,0 @@
-
-squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(®”çç8ìÏÇ¤µ,HÝFRMAJORZ
-CODE_SMELL
-Xsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÖFRMINORZVULNERABILITY
-q
-squid:S106$"9Replace this use of System.out or System.err by a logger.(õ±Ûèþÿÿÿÿ8°î«¤µ,HàFRMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(”ÿç³üÿÿÿÿ8ìÏÇ¤µ,HÛFRMAJORZ
-CODE_SMELL
-€squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(“òïHÜFRMINORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(€Î¸Úÿÿÿÿÿ8ìÏÇ¤µ,HÞFRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(øê€©8ìÏÇ¤µ,HØFRMAJORZ
-CODE_SMELL
-j
-squid:S106!"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿHÙFRMAJORZ
-CODE_SMELL
-e
-squid:S106 "9Replace this use of System.out or System.err by a logger.(¯ÆÿâHßFRMAJORZ
-CODE_SMELL
-e
-squid:S106'"9Replace this use of System.out or System.err by a logger.(¯ÏÿÐHÚFRMAJORZ
-CODE_SMELL
-…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³ß•³ùÿÿÿÿHÕFRMINORZ
-CODE_SMELL
-Xsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÔFRMINORZVULNERABILITY
-Xsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH×FRMINORZVULNERABILITY

@@ -1,14 +1,0 @@
-
-{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı¢ÈìHÔBRMINORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(ğÂ¿n8¹Ëáùµ,HŞBRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(õ±Ûèşÿÿÿÿ8¹Ëáùµ,HßBRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯ÏÿĞ8¹Ëáùµ,HàBRMAJORZ
-CODE_SMELL
-˜squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "student".(½Û’©úÿÿÿÿ8¹Ëáùµ,HáBRMINORZ
-CODE_SMELL

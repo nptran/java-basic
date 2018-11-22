@@ -1,111 +1,0 @@
-
-`squid:S1148Ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ©¸üµ,H¶CRMINORZVULNERABILITY
-r
-squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿ8õ©¸üµ,HËCRMAJORZ
-CODE_SMELL
-`squid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ñëúµ,H‚CRMINORZVULNERABILITY
-`squid:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ñëúµ,HıBRMINORZVULNERABILITY
-vsquid:S2095|"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ğê¡Ë8ãíãıµ,HÉCRBLOCKERZBUG
-q
-squid:S106P"9Replace this use of System.out or System.err by a logger.(È¼äşıÿÿÿÿ8×œæùµ,H£CRMAJORZ
-CODE_SMELL
-q
-squid:S106`"9Replace this use of System.out or System.err by a logger.(°™´ıÿÿÿÿ8ª§óûµ,HCRMAJORZ
-CODE_SMELL
-~squid:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»‡§8ãíãıµ,HÈCRBLOCKERZBUG
-`squid:S1148”"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ©¸üµ,H³CRMINORZVULNERABILITY
-_squid:S11480"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8õ©¸üµ,HµCRMINORZVULNERABILITY
-Ysquid:S1148ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHëBRMINORZVULNERABILITY
-m
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¨Ñëúµ,H÷BRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(°Á‚ç8¨Ñëúµ,HóBRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(›®Ø§HìBRMAJORZ
-CODE_SMELL
-m
-squid:S106â"9Replace this use of System.out or System.err by a logger.(ÉêŸ8ãíãıµ,HÊCRMAJORZ
-CODE_SMELL
-l
-squid:S106 "9Replace this use of System.out or System.err by a logger.(€©î8º¥½ûµ,HCRMAJORZ
-CODE_SMELL
-l
-squid:S106""9Replace this use of System.out or System.err by a logger.(ıĞ»Š8õ©¸üµ,H®CRMAJORZ
-CODE_SMELL
-…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³ß•³ùÿÿÿÿHÊBRMINORZ
-CODE_SMELL
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËØ¦Éùÿÿÿÿ8¨Ñëúµ,HøBRMAJORZ
-CODE_SMELL
-€squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(“òïHÉBRMINORZ
-CODE_SMELL
-†squid:S1192´"IDefine a constant instead of duplicating this literal "DELETED!" 3 times.(Šİº×ûÿÿÿÿ8õ©¸üµ,H¨CRCRITICALZ
-CODE_SMELL
-l
-squid:S106r"9Replace this use of System.out or System.err by a logger.(ô²¿ö8ª§óûµ,HÇCRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(™¬Ç•8¨Ñëúµ,HùBRMAJORZ
-CODE_SMELL
-Xsquid:S1148b"#Use a logger to log this exception.(ÂşÿâûÿÿÿÿH†CRMINORZVULNERABILITY
-wsquid:S2095."HUse try-with-resources or close this "Connection" in a "finally" clause.(«æï8¨Ñëúµ,HòBRBLOCKERZBUG
-hsquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8¨Ñëúµ,HñBRMINORZ
-CODE_SMELL
-m
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¨Ñëúµ,HöBRMAJORZ
-CODE_SMELL
-q
-squid:S106S"9Replace this use of System.out or System.err by a logger.(›ß—Âıÿÿÿÿ8ª§óûµ,H¥CRMAJORZ
-CODE_SMELL
-m
-squid:S106š"9Replace this use of System.out or System.err by a logger.(Ñ©öÀ8¨Ñëúµ,H‡CRMAJORZ
-CODE_SMELL
-Šsquid:S3776'"SRefactor this method to reduce its Cognitive Complexity from 105 to the 15 allowed.(Çµí‘8¨Ñëúµ,HûBRCRITICALZ
-CODE_SMELL
-`squid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ñëúµ,HşBRMINORZVULNERABILITY
-€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú¬Æ8»¥ûıµ,HÏCRMAJORZ
-CODE_SMELL
-r
-squid:S106Å"9Replace this use of System.out or System.err by a logger.(„£¹Ãşÿÿÿÿ8õ©¸üµ,HªCRMAJORZ
-CODE_SMELL
-ƒsquid:S2095J"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(£‘ßùÿÿÿÿ8…ÿ£ûµ,HˆCRBLOCKERZBUG
-_squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ©¸üµ,H´CRMINORZVULNERABILITY
-`squid:S1148ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ñëúµ,H¦CRMINORZVULNERABILITY
-m
-squid:S106"9Replace this use of System.out or System.err by a logger.(š¡Õ8õ©¸üµ,H«CRMAJORZ
-CODE_SMELL
-`squid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ñëúµ,HüBRMINORZVULNERABILITY
-r
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(úË¥òÿÿÿÿÿ8õ©¸üµ,H±CRMAJORZ
-CODE_SMELL
-r
-squid:S106´"9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿ8ª§óûµ,HœCRMAJORZ
-CODE_SMELL
-m
-squid:S106"9Replace this use of System.out or System.err by a logger.(ì‡„ò8õ©¸üµ,H­CRMAJORZ
-CODE_SMELL
-`squid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8úôÍûµ,H•CRMINORZVULNERABILITY
-m
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(®Ğ¤İ8õ©¸üµ,HÎCRMAJORZ
-CODE_SMELL
-l
-squid:S106!"9Replace this use of System.out or System.err by a logger.(¶›˜Ú8¨Ñëúµ,HŒCRMAJORZ
-CODE_SMELL
-m
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(ÆÀûı8µãİûµ,HÌCRMAJORZ
-CODE_SMELL
-Xsquid:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¤CRMINORZVULNERABILITY
-squid:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘Øå·8ßğíıµ,HÍCRBLOCKERZBUG
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ôáò‰8×œæùµ,HïBRMAJORZ
-CODE_SMELL
-l
-squid:S106F"9Replace this use of System.out or System.err by a logger.(¯Æÿâ8õ©¸üµ,H¯CRMAJORZ
-CODE_SMELL
-r
-squid:S106ï"9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿ8õ©¸üµ,H¬CRMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(èé¬¸ûÿÿÿÿ8ïÛıüµ,H·CRMAJORZ
-CODE_SMELL

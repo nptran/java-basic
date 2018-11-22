@@ -1,27 +1,0 @@
-
-l
-squid:S1068"9Replace this use of System.out or System.err by a logger.(Á’á–8®Ì½¬,Hæ!RMAJORZ
-CODE_SMELL
-œsquid:S1157!"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(é…’íøÿÿÿÿ8´é½Â¬,Hí!RMINORZ
-CODE_SMELL
-l
-squid:S106."9Replace this use of System.out or System.err by a logger.(îê—Š8®Ì½¬,Hå!RMAJORZ
-CODE_SMELL
-—squid:S1157""cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.( ŞÔ8´é½Â¬,Hê!RMINORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÁğÍß8®Ì½¬,Hä!RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(Çê§ô8®Ì½¬,Hì!RMAJORZ
-CODE_SMELL
-]squid:S1125(")Remove the literal "false" boolean value.(òÓÌÿ8ÒçÖ½¬,Hé!RMINORZ
-CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹Ïù°8®Ì½¬,Hë!RMAJORZ
-CODE_SMELL
-q
-squid:S106="9Replace this use of System.out or System.err by a logger.(’é™úÿÿÿÿ8®Ì½¬,Hè!RMAJORZ
-CODE_SMELL
-l
-squid:S106R"9Replace this use of System.out or System.err by a logger.(ÌÜøì8ª•­“­,Hç!RMAJORZ
-CODE_SMELL

@@ -1,5 +1,0 @@
-
-tsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ˆ¯¬ÐÿÿÿÿÿHÀgRMINORZ
-CODE_SMELL
-‡squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀµçvHÁgRMINORZ
-CODE_SMELL

@@ -1,35 +1,0 @@
-
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(éÊäüÿÿÿÿ8·¸’œ¥,HíIRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÂêúûÿÿÿÿ8Ûíéœ¥,HîIRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚üˆ‡8·¸’œ¥,HïIRMAJORZ
-CODE_SMELL
-k
-squid:S106,"9Replace this use of System.out or System.err by a logger.(ÿˆ 8·¸’œ¥,HğIRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(«”­8Ûíéœ¥,HñIRMAJORZ
-CODE_SMELL
-squid:S1450"URemove the "symbol" field and declare it as a local variable in the relevant methods.(Êª›Ãÿÿÿÿÿ8é¸Çœ¥,HòIRMINORZ
-CODE_SMELL
-nsquid:S1118":Add a private constructor to hide the implicit public one.(‹ÚøÆ8·¸’œ¥,HóIRMAJORZ
-CODE_SMELL
-q
-squid:S106""9Replace this use of System.out or System.err by a logger.(ò¦”Äúÿÿÿÿ8·¸’œ¥,HôIRMAJORZ
-CODE_SMELL
-q
-squid:S106'"9Replace this use of System.out or System.err by a logger.(êá»£ÿÿÿÿÿ8·¸’œ¥,HõIRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ïå®Á8·¸’œ¥,HöIRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(«”­8·¸’œ¥,H÷IRMAJORZ
-CODE_SMELL
-l
-squid:S1061"9Replace this use of System.out or System.err by a logger.(§éæª8·¸’œ¥,HøIRMAJORZ
-CODE_SMELL

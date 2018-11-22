@@ -1,7 +1,0 @@
-
-zsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.FetchType'.(ฏฟ8ปรู๋๐,H้ชRMINORZ
-CODE_SMELL
-wsquid:UselessImportCheck"5Remove this unused import 'javax.persistence.MapsId'.(ฒÛข8ปรู๋๐,H๊ชRMINORZ
-CODE_SMELL
-squid:UselessImportCheck"8Remove this unused import 'javax.persistence.ManyToOne'.(วัฒ๘ÿÿÿÿ8ปรู๋๐,H๋ชRMINORZ
-CODE_SMELL

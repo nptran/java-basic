@@ -1,29 +1,0 @@
-
-„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â˜¾ úÿÿÿÿ8¥’¯ü²,Hó<RMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ãÍžñ8³Ó…ý²,H=RMAJORZ
-CODE_SMELL
-qsquid:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ8ÀÕìõ²,H×<RMINORZ
-CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È­ÒÈ8¥’¯ü²,Hô<RMAJORZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë­˜ÛûÿÿÿÿHÏ<RMINORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜¶É¡8»ôõ²,Hâ<RMAJORZ
-CODE_SMELL
-asquid:S1481"-Remove this unused "sendData" local variable.(Ýë‹Ô8ÛÊ½ü²,Hû<RMINORZ
-CODE_SMELL
-squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.( ‰ÌÀ8¥’¯ü²,Hö<RMAJORZ
-CODE_SMELL
-Vsquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÀÕìõ²,HÖ<RBLOCKERZBUG
-€squid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Ïƒ—úÿÿÿÿ8ÀÕìõ²,HØ<RBLOCKERZBUG
-„squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(õÒÄêùÿÿÿÿ8¥’¯ü²,Hõ<RMAJORZ
-CODE_SMELL
-psquid:S1854"<Remove this useless assignment to local variable "sendData".(Ýë‹Ô8ÛÊ½ü²,Hü<RMAJORZ
-CODE_SMELL
-‹squid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¿÷óúÿÿÿÿ8ÀÕìõ²,Hê<RMINORZ
-CODE_SMELL
-q
-squid:S106+"9Replace this use of System.out or System.err by a logger.(°ìÇ ÿÿÿÿÿ8´ÓŒý²,H…=RMAJORZ
-CODE_SMELL

@@ -1,34 +1,0 @@
-
-psquid:S1854*"<Remove this useless assignment to local variable "students".(®®Ç¤8°¡×ý±,H¯8RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(›®Ø§8”È¿°±,H°8RMAJORZ
-CODE_SMELL
-q
-squid:S106&"9Replace this use of System.out or System.err by a logger.(¼û¤ñûÿÿÿÿ8”È¿°±,H±8RMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØêðŸûÿÿÿÿ8ïú°ý±,H²8RMAJORZ
-CODE_SMELL
-bsquid:S1481"/Remove this unused "controller" local variable.(ô‰æW8áâÏü±,H³8RMINORZ
-CODE_SMELL
-esquid:S1481",Remove this unused "process" local variable.(€¹ìóûÿÿÿÿ8°¡×ý±,H´8RMINORZ
-CODE_SMELL
-l
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ûšÅñ8”È¿°±,Hµ8RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ù÷Ç÷8”È¿°±,H¶8RMAJORZ
-CODE_SMELL
-qsquid:S1854">Remove this useless assignment to local variable "controller".(ô‰æW8áâÏü±,H·8RMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(÷™ëÎüÿÿÿÿ8”È¿°±,H¸8RMAJORZ
-CODE_SMELL
-l
-squid:S1063"9Replace this use of System.out or System.err by a logger.(š¡žÕ8”È¿°±,H¹8RMAJORZ
-CODE_SMELL
-l
-squid:S106;"9Replace this use of System.out or System.err by a logger.(†ØÕ¬8”È¿°±,Hº8RMAJORZ
-CODE_SMELL
-tsquid:S1854";Remove this useless assignment to local variable "process".(€¹ìóûÿÿÿÿ8°¡×ý±,H»8RMAJORZ
-CODE_SMELL

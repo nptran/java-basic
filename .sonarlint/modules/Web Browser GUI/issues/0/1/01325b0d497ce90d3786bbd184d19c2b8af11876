@@ -1,20 +1,0 @@
-
-”squid:UselessImportCheck	"SRemove this unused import 'javax.swing.tree.DefaultTreeCellEditor.EditorContainer'.(­Â³³8îÅíŠ¹,HÿKRMINORZ
-CODE_SMELL
-q
-squid:S106F"9Replace this use of System.out or System.err by a logger.(ÿ¿‰¼şÿÿÿÿ8îÅíŠ¹,HüKRMAJORZ
-CODE_SMELL
-ˆsquid:S1450"TRemove the "scene" field and declare it as a local variable in the relevant methods.(÷‘éÑ8îÅíŠ¹,HûKRMINORZ
-CODE_SMELL
-wsquid:UselessImportCheck"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜8îÅíŠ¹,HşKRMINORZ
-CODE_SMELL
-xsquid:UselessImportCheck"7Remove this unused import 'javafx.scene.layout.Border'.(û‘ÊÑ8ÔÖ‘‹¹,H¢LRMINORZ
-CODE_SMELL
-`squid:S1602#",Remove useless curly braces around statement(Ì†Ÿ˜8îÅíŠ¹,HıKRMINORZ
-CODE_SMELL
-asquid:S16041"(Make this anonymous inner class a lambda(ÀãÑ¬ıÿÿÿÿ8ÔÖ‘‹¹,H¡LRMAJORZ
-CODE_SMELL
-{squid:UselessImportCheck":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8îÅíŠ¹,H€LRMINORZ
-CODE_SMELL
-vsquid:UselessImportCheck"5Remove this unused import 'javafx.scene.paint.Paint'.(Ïæ©¼8îÅíŠ¹,HLRMINORZ
-CODE_SMELL

@@ -1,26 +1,0 @@
-
-l
-squid:S106."9Replace this use of System.out or System.err by a logger.(Ï—‡ˆ8Ø¿™×ê,H®tRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ãšàø8Äæ‹Õê,H¯tRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ©»•úÿÿÿÿ8Ş¦Õê,H°tRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.( ª8Äæ‹Õê,H±tRMAJORZ
-CODE_SMELL
-q
-squid:S1061"9Replace this use of System.out or System.err by a logger.(¯’Ğùÿÿÿÿ8‹¡Öê,H²tRMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(û×Ë	8ö¯”Õê,H³tRMAJORZ
-CODE_SMELL
-csquid:S1481"/Remove this unused "pairCustom" local variable.(ÕİËÖ8–õ„ë,H´tRMINORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ø÷‰¾8Äæ‹Õê,HµtRMAJORZ
-CODE_SMELL
-rsquid:S1854">Remove this useless assignment to local variable "pairCustom".(ÕİËÖ8–õ„ë,H¶tRMAJORZ
-CODE_SMELL

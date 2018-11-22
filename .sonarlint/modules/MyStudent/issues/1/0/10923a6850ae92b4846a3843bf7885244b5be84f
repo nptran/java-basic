@@ -1,11 +1,0 @@
-
-‰squid:S00100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š…œòùÿÿÿÿ8Ù€ªÈğ,HÑªRMINORZ
-CODE_SMELL
-‰squid:S00100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢ûÛùÿÿÿÿ8Ù€ªÈğ,HÔªRMINORZ
-CODE_SMELL
-‰squid:S001167"SRename this field "major_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şºš8´ü¨Èğ,HÒªRMINORZ
-CODE_SMELL
-Œsquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢ûÛùÿÿÿÿ8Ù€ªÈğ,HÓªRMINORZ
-CODE_SMELL
-dsquid:S19484"'Make "marks" transient or serializable.(Î»ç£ıÿÿÿÿ8´£³îğ,HĞªRCRITICALZ
-CODE_SMELL

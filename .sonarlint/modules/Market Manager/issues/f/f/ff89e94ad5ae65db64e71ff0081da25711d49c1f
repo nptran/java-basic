@@ -1,27 +1,0 @@
-
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ş°ËÌøÿÿÿÿ8ÜÍĞ•®,H‰gRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(€ÿ½‘øÿÿÿÿ8ÜÍĞ•®,HŠgRMAJORZ
-CODE_SMELL
-q
-squid:S106C"9Replace this use of System.out or System.err by a logger.(°˜ÇÄüÿÿÿÿ8â§õ°,H‹gRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÔö€úÿÿÿÿ8ÜÍĞ•®,HŒgRMAJORZ
-CODE_SMELL
-k
-squid:S106?"9Replace this use of System.out or System.err by a logger.(ã¼ÌU8óÉî˜®,HgRMAJORZ
-CODE_SMELL
-l
-squid:S106="9Replace this use of System.out or System.err by a logger.(ë©¹Ó8™í“š®,HgRMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ù…8ÜÍĞ•®,HgRMAJORZ
-CODE_SMELL
-q
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ÿÏÓ«øÿÿÿÿ8ÜÍĞ•®,HgRMAJORZ
-CODE_SMELL
-”squid:S3973B"XUse curly braces or indentation to denote the code conditionally executed by this "for".(¹¶Îèúÿÿÿÿ8«™¡êŞ,H‘gRCRITICALZ
-CODE_SMELL

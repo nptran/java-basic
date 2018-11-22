@@ -1,15 +1,0 @@
-
-rsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(é¾ûþüÿÿÿÿH–wRBLOCKERZBUG
-esquid:S1854"8Remove this useless assignment to local variable "file".( ÎâµH˜wRMAJORZ
-CODE_SMELL
-ssquid:S1075"ARefactor your code to get this URI from a customizable parameter.(é¾ûþüÿÿÿÿH—wRMINORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹H”wRMAJORZ
-CODE_SMELL
-Vsquid:S1481")Remove this unused "file" local variable.( ÎâµH’wRMINORZ
-CODE_SMELL
-nsquid:S1075"ARefactor your code to get this URI from a customizable parameter.( ÎâµH•wRMINORZ
-CODE_SMELL
-wsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ÀüvH“wRMAJORZ
-CODE_SMELL

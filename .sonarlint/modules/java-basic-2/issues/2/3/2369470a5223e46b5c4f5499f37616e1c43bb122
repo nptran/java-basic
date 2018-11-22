@@ -1,23 +1,0 @@
-
-l
-squid:S106T"9Replace this use of System.out or System.err by a logger.(ήΫ§³8ύ§„νή,HΤhRMAJORZ
-CODE_SMELL
-lsquid:S26961"6Make the enclosing method "static" or remove this set.(ΰΡ88©ψμμή,HΒhRCRITICALZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ί΅οΧϋÿÿÿÿHυgRMINORZ
-CODE_SMELL
-^squid:S3010
-"%Remove this assignment of "elements".(’¦›ÿÿÿÿÿ8©ψμμή,HΏhRMAJORZ
-CODE_SMELL
-lsquid:S26968"6Make the enclosing method "static" or remove this set.(¥ο}8©ψμμή,HΔhRCRITICALZ
-CODE_SMELL
-^squid:S3010"%Remove this assignment of "elements".(’¦›ÿÿÿÿÿ8©ψμμή,HΐhRMAJORZ
-CODE_SMELL
-rsquid:S2696C"6Make the enclosing method "static" or remove this set.(¦ΈΗ€όÿÿÿÿ8©ψμμή,HΕhRCRITICALZ
-CODE_SMELL
-squid:S4144"WUpdate this method so that its implementation is not identical to "isEmpty" on line 19.(ΆΚεN8τέΫμή,H·hRMAJORZ
-CODE_SMELL
-rsquid:S2696/"6Make the enclosing method "static" or remove this set.(’¦›ÿÿÿÿÿ8©ψμμή,HΑhRCRITICALZ
-CODE_SMELL
-rsquid:S26963"6Make the enclosing method "static" or remove this set.(Ή‘λÿÿÿÿÿ8©ψμμή,HΓhRCRITICALZ
-CODE_SMELL

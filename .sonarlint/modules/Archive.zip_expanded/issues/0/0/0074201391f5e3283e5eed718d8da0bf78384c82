@@ -1,26 +1,0 @@
-
-xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹Ïù°H±RMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÁðÍßH²RMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Çê§ôH³RMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(îê—ŠH´RMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Á›¡ˆHµRMAJORZ
-CODE_SMELL
-e
-squid:S106#"9Replace this use of System.out or System.err by a logger.(Á’á–H¶RMAJORZ
-CODE_SMELL
-e
-squid:S106%"9Replace this use of System.out or System.err by a logger.(‹³°ÛH·RMAJORZ
-CODE_SMELL
-j
-squid:S1064"9Replace this use of System.out or System.err by a logger.(ŒÌ¥²úÿÿÿÿH¸RMAJORZ
-CODE_SMELL
-Vsquid:S1125")Remove the literal "false" boolean value.(³œŠÕH¹RMINORZ
-CODE_SMELL

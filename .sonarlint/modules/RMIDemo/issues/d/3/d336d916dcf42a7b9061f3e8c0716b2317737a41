@@ -1,12 +1,0 @@
-
-j
-squid:S106!"9Replace this use of System.out or System.err by a logger.(û‡òòüÿÿÿÿH©?RMAJORZ
-CODE_SMELL
-d
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ÂÆ`H§?RMAJORZ
-CODE_SMELL
-e
-squid:S106#"9Replace this use of System.out or System.err by a logger.(±êï·H¦?RMAJORZ
-CODE_SMELL
-}squid:CallToDeprecatedMethod":Remove this use of "RMISecurityManager"; it is deprecated.(éŸÉÖşÿÿÿÿH¨?RMINORZ
-CODE_SMELL

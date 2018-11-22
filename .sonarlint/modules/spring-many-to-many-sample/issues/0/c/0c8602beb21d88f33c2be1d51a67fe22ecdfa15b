@@ -1,7 +1,0 @@
-
-|squid:UselessImportCheck":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8ÚÏÁğ,HÔ˜RMINORZ
-CODE_SMELL
-qsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ùùÅÁğ,H½˜RMINORZ
-CODE_SMELL
-squid:UselessImportCheck"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ8ÔàÂÁğ,H¹˜RMINORZ
-CODE_SMELL

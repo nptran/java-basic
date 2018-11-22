@@ -1,18 +1,0 @@
-
-e
-squid:S1060"9Replace this use of System.out or System.err by a logger.(®Ð¤ÝHÎFRMAJORZ
-CODE_SMELL
-wsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»‡§HÉFRBLOCKERZBUG
-j
-squid:S1064"9Replace this use of System.out or System.err by a logger.(ËØ¦ÉùÿÿÿÿHÏFRMAJORZ
-CODE_SMELL
-Xsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÑFRMINORZVULNERABILITY
-Xsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÐFRMINORZVULNERABILITY
-osquid:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ðê¡ËHËFRBLOCKERZBUG
-e
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ì‡„òHÍFRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ô²¿öHÌFRMAJORZ
-CODE_SMELL
-wsquid:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘Øå·HÊFRBLOCKERZBUG

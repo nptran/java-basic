@@ -1,46 +1,0 @@
-
-Xsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¿FRMINORZVULNERABILITY
-e
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(ÉêŸH·FRMAJORZ
-CODE_SMELL
-j
-squid:S106_"9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿH¼FRMAJORZ
-CODE_SMELL
-Xsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÀFRMINORZVULNERABILITY
-}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èé¬¸ûÿÿÿÿH¯FRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ıĞ»ŠH±FRMAJORZ
-CODE_SMELL
-Xsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH½FRMINORZVULNERABILITY
-j
-squid:S106""9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿHºFRMAJORZ
-CODE_SMELL
-Xsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¾FRMINORZVULNERABILITY
-j
-squid:S106@"9Replace this use of System.out or System.err by a logger.(Šİº×ûÿÿÿÿH¹FRMAJORZ
-CODE_SMELL
-~squid:S1192""IDefine a constant instead of duplicating this literal "DELETED!" 3 times.(Šİº×ûÿÿÿÿH®FRCRITICALZ
-CODE_SMELL
-e
-squid:S106;"9Replace this use of System.out or System.err by a logger.(ÆÀûıHÓFRMAJORZ
-CODE_SMELL
-xsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(ú¬ÆH°FRMAJORZ
-CODE_SMELL
-e
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(ÆÀûıH¶FRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(úË¥òÿÿÿÿÿH¸FRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(€©îH´FRMAJORZ
-CODE_SMELL
-Xsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÁFRMINORZVULNERABILITY
-Xsquid:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÂFRMINORZVULNERABILITY
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶›˜ÚH²FRMAJORZ
-CODE_SMELL
-j
-squid:S1063"9Replace this use of System.out or System.err by a logger.(„£¹ÃşÿÿÿÿHµFRMAJORZ
-CODE_SMELL

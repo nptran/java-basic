@@ -1,17 +1,0 @@
-
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¡ï×ûÿÿÿÿH²hRMINORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ8ãœ´íŞ,HàhRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(“§˜Ÿ8¨¦ÄìŞ,HÏhRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(™•Œ8Ñ £íŞ,HŞhRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(™•Œ8µ¡íŞ,HÛhRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«´ê8åÏ©íŞ,HßhRMAJORZ
-CODE_SMELL

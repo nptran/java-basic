@@ -1,44 +1,0 @@
-
-gsquid:S1118":Add a private constructor to hide the implicit public one.(óß«àH÷mRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ëÈÀóÿÿÿÿÿHømRMAJORZ
-CODE_SMELL
-j
-squid:S106	"9Replace this use of System.out or System.err by a logger.(î¯Œ«ùÿÿÿÿHùmRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(š”¹ÏHúmRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(É¡÷éHûmRMAJORZ
-CODE_SMELL
-d
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ûç`HümRMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı—°±øÿÿÿÿ8¨¡ÜÊå,HımRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÏÏ´øÿÿÿÿHşmRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(õ¥§‰üÿÿÿÿHÿmRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı€‹·şÿÿÿÿH€nRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(èıHnRMAJORZ
-CODE_SMELL
-™squid:UselessImportCheck"YRemove this unused import 'com.freezefox.studentmanagement.controller.StudentController'.(„›Î8ƒ¬åÊå,H‚nRMINORZ
-CODE_SMELL
-squid:UselessImportCheck"JRemove this unused import 'com.freezefox.studentmanagement.model.Student'.(™Ô—µşÿÿÿÿ8ƒ¬åÊå,HƒnRMINORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(öö™H„nRMAJORZ
-CODE_SMELL
-j
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(³ÜËéüÿÿÿÿH…nRMAJORZ
-CODE_SMELL

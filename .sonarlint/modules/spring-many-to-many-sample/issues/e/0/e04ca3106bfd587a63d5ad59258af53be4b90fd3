@@ -1,9 +1,0 @@
-
-osquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(й┌ЙX8ДолаП,Hм≤RMINORZ
-CODE_SMELL
-│squid:UselessImportCheck"@Remove this unused import 'com.techmaster.sample.model.Student'.(ГщЕ8ДолаП,Hн≤RMINORZ
-CODE_SMELL
-qsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(Ж╡└╓ЧЪЪЪЪ8ДолаП,Hо≤RMINORZ
-CODE_SMELL
-rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(В┴Н┐8ДолаП,Hп≤RMINORZ
-CODE_SMELL

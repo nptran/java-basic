@@ -1,13 +1,0 @@
-
-e
-squid:S106""9Replace this use of System.out or System.err by a logger.(È¾™›HÅFRMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(È¼äþýÿÿÿÿHÄFRMAJORZ
-CODE_SMELL
-Xsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÈFRMINORZVULNERABILITY
-j
-squid:S106/"9Replace this use of System.out or System.err by a logger.(°™´ŽýÿÿÿÿHÆFRMAJORZ
-CODE_SMELL
-|squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(£‘ßžùÿÿÿÿHÃFRBLOCKERZBUG
-Xsquid:S11481"#Use a logger to log this exception.(ÂþÿâûÿÿÿÿHÇFRMINORZVULNERABILITY

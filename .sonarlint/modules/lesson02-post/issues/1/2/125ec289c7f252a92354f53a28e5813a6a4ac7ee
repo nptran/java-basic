@@ -1,14 +1,0 @@
-
-[squid:S19898"&Add a "try/catch" block for "forward".(◊ﬂÓ˚˝ˇˇˇˇH„NRMINORZVULNERABILITY
-Usquid:S1989"&Add a "try/catch" block for "forward".(»å H‰NRMINORZVULNERABILITY
-Qsquid:S1659"$Declare "result" on a separate line.(€éπùHÂNRMINORZ
-CODE_SMELL
-zsquid:S1192%"JDefine a constant instead of duplicating this literal "operation" 4 times.(µŒ”ÌHÊNRCRITICALZ
-CODE_SMELL
-csquid:S35180":Make sure "num2" can't be zero before doing this division.(Øò„‹HÁNRCRITICALZBUG
-Osquid:S1659""Declare "num2" on a separate line.(€éπùHËNRMINORZ
-CODE_SMELL
-Wsquid:S1989 "'Add a "try/catch" block for "parseInt".(ÌîÑûHÈNRMINORZVULNERABILITY
-Wsquid:S1989"'Add a "try/catch" block for "parseInt".(ÍåÿªHÍNRMINORZVULNERABILITY
-[squid:S19898"&Add a "try/catch" block for "forward".(◊ﬂÓ˚˝ˇˇˇˇHÎNRMINORZVULNERABILITY
-Usquid:S1989"&Add a "try/catch" block for "forward".(»å HÏNRMINORZVULNERABILITY

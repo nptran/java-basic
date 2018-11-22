@@ -1,22 +1,0 @@
-
-Ssquid:S1659	"!Declare "wid" on a separate line.(¨½“£şÿÿÿÿHšhRMINORZ
-CODE_SMELL
-Nsquid:S1659m"!Declare "col" on a separate line.(Ô’äÙH›hRMINORZ
-CODE_SMELL
-Nsquid:S1659n"!Declare "hei" on a separate line.(ŒªÿHœhRMINORZ
-CODE_SMELL
-j
-squid:S106("9Replace this use of System.out or System.err by a logger.(úº‘üÿÿÿÿHhRMAJORZ
-CODE_SMELL
-j
-squid:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHhRMAJORZ
-CODE_SMELL
-e
-squid:S106d"9Replace this use of System.out or System.err by a logger.(ŒúíÃHŸhRMAJORZ
-CODE_SMELL
-nsquid:HiddenFieldCheckn"6Rename "wid" which hides the field declared at line 9.(ŒªÿH hRMAJORZ
-CODE_SMELL
-nsquid:HiddenFieldCheckn"6Rename "hei" which hides the field declared at line 9.(ŒªÿH¡hRMAJORZ
-CODE_SMELL
-Asquid:S1700"Rename field "matrix"(ÏãÓH¢hRMAJORZ
-CODE_SMELL
