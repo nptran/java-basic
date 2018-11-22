@@ -39,6 +39,9 @@ local.properties
 # sbteclipse plugin
 .target
 
+# Sonarlint
+.sonarlint/
+
 # Tern plugin
 .tern-project
 
