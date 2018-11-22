@@ -9,3 +9,5 @@
 1542898538869	Delete resource 'sqljdbc4'
 1542901305352	Delete resource 'MyStudent'
 1542902261036	Delete resource 'MyStudent'
+1542904385361	Rename resource 'TestRun'
+1542904449408	Rename resource 'SerializableMethod'
