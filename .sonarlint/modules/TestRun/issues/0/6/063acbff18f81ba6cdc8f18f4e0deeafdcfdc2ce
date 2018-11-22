@@ -1,0 +1,32 @@
+
+Gsquid:S1220""Move this file to a named package.HªIRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(öâ÷¤H«IRMAJORZ
+CODE_SMELL
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬†“»H¬IRMINORZ
+CODE_SMELL
+d
+squid:S1062"9Replace this use of System.out or System.err by a logger.(„«]H­IRMAJORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(›¤ÌØıÿÿÿÿH®IRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ–åîúÿÿÿÿH¯IRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö¼ç³H°IRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(´—‹şH±IRMAJORZ
+CODE_SMELL
+j
+squid:S106&"9Replace this use of System.out or System.err by a logger.(‘ÊÏüÿÿÿÿH²IRMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ªô×óH³IRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(‘â—‚H´IRMAJORZ
+CODE_SMELL
+osquid:UnusedPrivateMethod"/Remove this unused private "addRecords" method.(”íË«şÿÿÿÿHµIRMAJORZ
+CODE_SMELL

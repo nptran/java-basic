@@ -1,0 +1,22 @@
+
+Psquid:S1659	"#Declare "index" on a separate line.(¼ûŞáH¶fRMINORZ
+CODE_SMELL
+‚squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘H·fRCRITICALZ
+CODE_SMELL
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©®ûÿÿÿÿH¸fRMINORZ
+CODE_SMELL
+Rsquid:S1659" Declare "s2" on a separate line.(©®ûÿÿÿÿH¹fRMINORZ
+CODE_SMELL
+Qsquid:S1659"Declare "S" on a separate line.(©®ûÿÿÿÿHºfRMINORZ
+CODE_SMELL
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(£ıÚÉH»fRMAJORZ
+CODE_SMELL
+Qsquid:S1659"Declare "s" on a separate line.(©®ûÿÿÿÿH¼fRMINORZ
+CODE_SMELL
+Isquid:S1643-"Use a StringBuilder instead.(¦ñÇÙH½fRMINORZ
+CODE_SMELL
+Rsquid:S2129" Remove this "String" constructor(©®ûÿÿÿÿH¾fRMAJORZ
+CODE_SMELL
+Msquid:S2129*" Remove this "String" constructor(â˜Ê”H¿fRMAJORZ
+CODE_SMELL

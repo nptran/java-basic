@@ -1,0 +1,58 @@
+package baitapso1;
+
+import java.util.Scanner;
+
+public class Bai18 {
+	
+	private static final int MAX = 50;
+	
+	private static Scanner scanner = new Scanner(System.in);
+	
+	private static void inputArray(int size, int[] arr) {
+		System.out.print("Nhập mảng (gồm các số có 3 chữ số):  ");
+		int num;
+		
+		for (int i=0; i<size; i++) {
+			num = scanner.nextInt();
+			if (num>=100 && num<=999) {
+				arr[i] = num;
+			}
+			else {
+				System.out.println("Phần tử không hợp lệ!");
+				input(size, arr);
+			}
+		}
+	}
+	
+	private static void input(int n, int[] arr) {
+		do {
+			System.out.print("Nhập n (không quá 50):  ");
+			n = scanner.nextInt();
+		} while (n >MAX);
+		inputArray(n, arr);
+	}
+	
+	private static boolean reversibleArray(int size, int[] arr) {
+		for (int i=0; i<size; i++) {
+			if (arr[i] != arr[size-i-1])
+				return false;
+		}
+		return true;
+	}
+	
+	private static void output(int n, int[] arr) {
+		System.out.print("KẾT LUẬN: ");
+		if (reversibleArray(n, arr)) {
+			System.out.println("Mảng đối xứng");
+		}
+		else System.out.println("Mảng không đối xứng");
+	}
+	
+	public static void main(String[] args) {
+		int n = 0;
+		int[] a = new int[MAX];
+		
+		input(n, a);
+		output(n, a);
+	}
+}

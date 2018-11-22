@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.mystudent.model;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+public class Subject {
+
+}

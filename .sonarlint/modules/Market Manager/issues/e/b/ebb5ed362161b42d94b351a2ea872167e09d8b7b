@@ -1,0 +1,73 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¹®ñ8«‰¿š®,H®oRMAJORZ
+CODE_SMELL
+q
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8«‰¿š®,H¯oRMAJORZ
+CODE_SMELL
+ˆsquid:S3776%"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Öå«8«‰¿š®,H°oRCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ƒ™¥8«‰¿š®,H±oRMAJORZ
+CODE_SMELL
+q
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8µ¤Ü½®,H²oRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßëæ¥ûÿÿÿÿ8±¡î–®,H³oRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¾½«8‰µÍšË,H´oRMAJORZ
+CODE_SMELL
+•squid:S1192X"YDefine a constant instead of duplicating this literal "Wrong Choice! Try Again!" 3 times.(Êî£øÿÿÿÿ8«‰¿š®,HµoRCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(û²ÌÆüÿÿÿÿ8«‰¿š®,H¶oRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ŸÀåøÿÿÿÿ8‰µÍšË,H·oRMAJORZ
+CODE_SMELL
+q
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Êî£øÿÿÿÿ8«‰¿š®,H¸oRMAJORZ
+CODE_SMELL
+r
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Æñ©Ÿÿÿÿÿÿ8«‰¿š®,H¹oRMAJORZ
+CODE_SMELL
+hsquid:EmptyStatementUsageCheck\"Remove this empty statement.(ôŸìúÿÿÿÿ8¥æ¥²®,HºoRMINORZ
+CODE_SMELL
+isquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8ıá¨²®,H»oRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¹®ñ8«‰¿š®,H¼oRMAJORZ
+CODE_SMELL
+r
+squid:S106…"9Replace this use of System.out or System.err by a logger.(‚‰Óşÿÿÿÿ8«‰¿š®,H½oRMAJORZ
+CODE_SMELL
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(İİÏöúÿÿÿÿ8Ñ¿²²®,H¾oRMAJORZ
+CODE_SMELL
+rsquid:S1854=">Remove this useless assignment to local variable "electronic".(’óì¢8«‰¿š®,H¿oRMAJORZ
+CODE_SMELL
+l
+squid:S106N"9Replace this use of System.out or System.err by a logger.(É†è8«‰¿š®,HÀoRMAJORZ
+CODE_SMELL
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(É†è8øÿ±®,HÁoRMAJORZ
+CODE_SMELL
+q
+squid:S106X"9Replace this use of System.out or System.err by a logger.(Êî£øÿÿÿÿ8«‰¿š®,HÂoRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ŸÀåøÿÿÿÿ8‰µÍšË,HÃoRMAJORZ
+CODE_SMELL
+qsquid:S1854K"8Remove this useless assignment to local variable "food".(µ’‘ÿÿÿÿÿ8«‰¿š®,HÄoRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜”„˜üÿÿÿÿ8øÿ±®,HÅoRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß¹À§üÿÿÿÿ8«‰¿š®,HÆoRMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(½î‡³8«‰¿š®,HÇoRMAJORZ
+CODE_SMELL

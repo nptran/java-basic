@@ -1,0 +1,17 @@
+
+xsquid:S3027("FPut single-quotes around '+' to use the faster "indexOf(char)" method.(µ£áøÿÿÿÿH–jRMAJORZ
+CODE_SMELL
+xsquid:S3027)"FPut single-quotes around 'j' to use the faster "indexOf(char)" method.(”úû³ıÿÿÿÿH—jRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ùâ¡H˜jRMAJORZ
+CODE_SMELL
+e
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÿò®¦H™jRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§·ü¦øÿÿÿÿHšjRMINORZ
+CODE_SMELL
+~squid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(“Ùâ¡H›jRMAJORZ
+CODE_SMELL
+~squid:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿò®¦HœjRMAJORZ
+CODE_SMELL

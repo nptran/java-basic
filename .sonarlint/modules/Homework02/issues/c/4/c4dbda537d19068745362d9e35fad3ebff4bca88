@@ -1,0 +1,58 @@
+
+j
+squid:S1064"9Replace this use of System.out or System.err by a logger.(™ŸˆƒúÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+squid:HiddenFieldCheckU";Rename "scanner" which hides the field declared at line 15.(ù ƒ‘üÿÿÿÿ8Éø§¥ª,HÃRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(”±ıúÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å†ÕøÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+r
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(İ–‡Îúÿÿÿÿ8ªĞÈ¤ª,HÆRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¼µ‘HÇRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡°¬HÈRMAJORZ
+CODE_SMELL
+e
+squid:S1067"9Replace this use of System.out or System.err by a logger.(êµÒ÷HÉRMAJORZ
+CODE_SMELL
+Zsquid:S1199f"-Extract this nested code block into a method.(ù¨ÃÄHÊRMINORZ
+CODE_SMELL
+l
+squid:S106N"9Replace this use of System.out or System.err by a logger.(øàŸÚ8ğ…¤ª,HËRMAJORZ
+CODE_SMELL
+d
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ÿà2HÌRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ö¾§şÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(“Ã…·HÎRMAJORZ
+CODE_SMELL
+_squid:S1199l"-Extract this nested code block into a method.(ì„ ×øÿÿÿÿHÏRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(µûà¡üÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+_squid:S1199_"-Extract this nested code block into a method.(¥Ÿ´ŸúÿÿÿÿHÑRMINORZ
+CODE_SMELL
+_squid:S1199{"-Extract this nested code block into a method.(î–¤ÑùÿÿÿÿHÒRMINORZ
+CODE_SMELL
+`squid:S1199"-Extract this nested code block into a method.(Î—­ŠşÿÿÿÿHÓRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ÖºÁHÔRMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(çö³äüÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+e
+squid:S106F"9Replace this use of System.out or System.err by a logger.(øàŸÚHÖRMAJORZ
+CODE_SMELL

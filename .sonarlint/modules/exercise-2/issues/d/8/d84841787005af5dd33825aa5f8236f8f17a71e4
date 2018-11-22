@@ -1,0 +1,27 @@
+
+nsquid:S11266"AReplace this if-then-else statement by a single return statement.(äËÄÍHşiRMINORZ
+CODE_SMELL
+l
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ñü÷ğ8»£ºß,H‡jRMAJORZ
+CODE_SMELL
+nsquid:S1126D"AReplace this if-then-else statement by a single return statement.(°‘—ŠHƒjRMINORZ
+CODE_SMELL
+e
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ÏíÙHÿiRMAJORZ
+CODE_SMELL
+isquid:S1854x"7Remove this useless assignment to local variable "ans".(º‰ÇÿÿÿÿÿH‚jRMAJORZ
+CODE_SMELL
+isquid:S1854Z"7Remove this useless assignment to local variable "ans".(º‰ÇÿÿÿÿÿHıiRMAJORZ
+CODE_SMELL
+Xsquid:S1659S"&Declare "slashPos" on a separate line.(â¢·«úÿÿÿÿHjRMINORZ
+CODE_SMELL
+isquid:S1854f"7Remove this useless assignment to local variable "ans".(º‰ÇÿÿÿÿÿH†jRMAJORZ
+CODE_SMELL
+xsquid:S3027S"FPut single-quotes around '/' to use the faster "indexOf(char)" method.(â¢·«úÿÿÿÿHüiRMAJORZ
+CODE_SMELL
+nsquid:S1126="AReplace this if-then-else statement by a single return statement.(°‘—ŠH€jRMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıŒË´H…jRMINORZ
+CODE_SMELL
+ˆsquid:S4144C"VUpdate this method so that its implementation is not identical to "lonHon" on line 60.(ÆÒ×ĞûÿÿÿÿH„jRMAJORZ
+CODE_SMELL

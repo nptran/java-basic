@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+import com.sun.java_cup.internal.runtime.Symbol;
+
+public class Test3 {
+
+	private static Scanner scanner = new Scanner(System.in);
+	public static void main(String[] args) {
+		System.out.println("Enter n: ");
+		int n = scanner.nextInt();
+		int c = 3;
+		String[][] arr = new String[n][n];
+		
+		for (int i =0; i< n; i++) {
+			for (int j =0; j< n; j++) {
+				arr[0][i] = arr[n][i] = arr[i][0] = arr[i][n] = "*";			
+			}
+		}
+		for (int i =0; i< n; i++) {
+			for (int j =0; j< n; j++) {
+				System.out.print(arr[i][j] + " ");
+			}
+			System.out.println();
+		}
+		
+	}
+}

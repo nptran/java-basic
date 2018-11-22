@@ -1,0 +1,25 @@
+
+[squid:S1068"'Remove this unused "oos" private field.(þ°Âå8©ÝÔ’¹,HºLRMAJORZ
+CODE_SMELL
+asquid:S1604!"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ8©ÝÔ’¹,H»LRMAJORZ
+CODE_SMELL
+\squid:S1948"%Make "oos" transient or serializable.(þ°Âå8©ÝÔ’¹,H¼LRCRITICALZ
+CODE_SMELL
+[squid:S1068"'Remove this unused "ois" private field.(à‚åÛ8©ÝÔ’¹,H½LRMAJORZ
+CODE_SMELL
+dsquid:S1948"(Make "server" transient or serializable.(­«ÚÒùÿÿÿÿ8©ÝÔ’¹,H¾LRCRITICALZ
+CODE_SMELL
+\squid:S1948"%Make "ois" transient or serializable.(à‚åÛ8©ÝÔ’¹,H¿LRCRITICALZ
+CODE_SMELL
+vsquid:UselessImportCheck"5Remove this unused import 'javafx.scene.control.Tab'.(öÁôË8©ÝÔ’¹,HÀLRMINORZ
+CODE_SMELL
+gsquid:S1068".Remove this unused "connection" private field.(™ô­ºýÿÿÿÿ8©ÝÔ’¹,HÁLRMAJORZ
+CODE_SMELL
+Nsquid:S1700"Rename field "server"(­«ÚÒùÿÿÿÿ8©ÝÔ’¹,HÂLRMAJORZ
+CODE_SMELL
+hsquid:S1948",Make "connection" transient or serializable.(™ô­ºýÿÿÿÿ8©ÝÔ’¹,HÃLRCRITICALZ
+CODE_SMELL
+‡squid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ÿ›áÍùÿÿÿÿ8©ÝÔ’¹,HÄLRMAJORZ
+CODE_SMELL
+¸squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–òçØ8ÝÖ—–¹,HÅLRCRITICALZ
+CODE_SMELL

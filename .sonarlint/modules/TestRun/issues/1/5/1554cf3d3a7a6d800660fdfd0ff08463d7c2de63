@@ -1,0 +1,28 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ÂÆ+8é‘ÃÀ®,HãIRMAJORZ
+CODE_SMELL
+Œsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ŠØ½Øúÿÿÿÿ8é‘ÃÀ®,HäIRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ÂÆ+8é‘ÃÀ®,HåIRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïÓ­Šüÿÿÿÿ8é‘ÃÀ®,HæIRMAJORZ
+CODE_SMELL
+‚squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃË‘á8é‘ÃÀ®,HçIRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ÂÆ+8é‘ÃÀ®,HèIRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷¿ÿŠùÿÿÿÿ8é‘ÃÀ®,HéIRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HêIRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(îõ®İ8é‘ÃÀ®,HëIRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥¼Ö8é‘ÃÀ®,HìIRMAJORZ
+CODE_SMELL

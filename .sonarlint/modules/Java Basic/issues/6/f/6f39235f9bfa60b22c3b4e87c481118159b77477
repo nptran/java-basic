@@ -1,0 +1,5 @@
+
+jsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(Ü–•≈8èÅ¬ÛÔ,H›wRMINORZ
+CODE_SMELL
+Ω%squid:RedundantThrowsDeclarationCheck9"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ÌäõÃHâwRMINORZ
+CODE_SMELL

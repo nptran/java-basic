@@ -1,0 +1,115 @@
+package com.mystudent.model;
+
+import java.io.Serializable;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Set;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
+import com.mystudent.repository.Processor;
+
+@Entity
+@Table(name = "student")
+public class Student implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	private static final SimpleDateFormat FORMATTER = new SimpleDateFormat("dd/MM/yyyy");
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name = "id", nullable = false)
+	private Integer id;
+	
+	
+	@Column(name = "name", nullable=false)
+	@Size(min = 2, max = 30, message = "Bịa tên khác đi, từ 2-30 ký tự")
+	@NotNull(message = "Nhập tên vào đã, đi đâu mà vội")
+	private String name;
+
+	@Column(name = "dob")
+	private Date dob;
+	
+	@ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@JoinTable(name = "MARK", joinColumns = { @JoinColumn(name = "STUDENT_ID") }, inverseJoinColumns = {
+			@JoinColumn(name = "SUBJECT_ID") })
+	private Set<Subject> subjects;
+	
+	@ManyToOne(fetch = FetchType.LAZY, cascade=CascadeType.ALL)
+	@JoinColumn(name = "MAJOR_ID")
+	private Major major;
+	
+	public Student() {
+		super();
+	}
+
+	public Student(Integer id, String name, Date dob) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.dob = dob;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = Processor.processName(name);
+	}
+
+	public Date getDob() {
+		return dob;
+	}
+
+	public void setDob(String dob) {
+		try {
+			this.dob = FORMATTER.parse(dob);
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public Set<Subject> getSubjects() {
+		return subjects;
+	}
+
+	public void setSubjects(Set<Subject> subjects) {
+		this.subjects = subjects;
+	}
+
+	public Major getMajor() {
+		return major;
+	}
+
+	public void setMajor(Major major) {
+		
+	}
+
+}

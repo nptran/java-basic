@@ -1,0 +1,21 @@
+package ImmediateJavaDemo;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+
+		String[] arr = {"apple", "banana", "orange", "lemon"};
+		List<String> things = new LinkedList<>(Arrays.asList(arr));
+		
+		Collections.sort(things);
+		System.out.printf("%s", things);
+		
+	
+	}
+}
+

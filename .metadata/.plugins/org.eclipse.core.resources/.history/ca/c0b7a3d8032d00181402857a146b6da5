@@ -1,0 +1,22 @@
+package com.lesson2;
+
+public class Simple {
+	public static void main(String[] args) {
+	
+		int a = 2;
+		if(a>3){
+			
+			System.out.println("1");
+		}
+		
+		if else{
+			System.out.println("2");
+		}
+		
+		else {
+			System.out.println("3");
+		}
+		
+	}
+
+}

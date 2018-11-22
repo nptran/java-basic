@@ -1,0 +1,27 @@
+
+¡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(æË•¸8Áà±œ¸,HÌJRMAJORZ
+CODE_SMELL
+‰squid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8Áà±œ¸,HÍJRCRITICALZ
+CODE_SMELL
+¡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸ÄÍ¿8Áà±œ¸,HÎJRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÏJRMINORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ôçè™¸,HÐJRMAJORZ
+CODE_SMELL
+†squid:UselessImportCheck"ERemove this unused import 'com.sun.java_cup.internal.runtime.Symbol'.(ÐàÐ²8Ôçè™¸,HÑJRMINORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ø ÔØÿÿÿÿÿ8–ÿÎ˜¸,HÒJRMAJORZ
+CODE_SMELL
+¡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(æË•¸8Áà±œ¸,HÓJRMAJORZ
+CODE_SMELL
+isquid:S1191"5Use classes from the Java API instead of Sun classes.(ÐàÐ²8Ôçè™¸,HÔJRMAJORZ
+CODE_SMELL
+¡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸ÄÍ¿8Áà±œ¸,HÕJRMAJORZ
+CODE_SMELL
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(é¼Ã´ùÿÿÿÿ8ßÒ´œ¸,HÖJRMAJORZ
+CODE_SMELL

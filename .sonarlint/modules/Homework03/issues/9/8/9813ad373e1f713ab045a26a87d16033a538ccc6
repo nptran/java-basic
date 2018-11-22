@@ -1,0 +1,29 @@
+
+squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(‡éµ”8±›‰Ã¬,H®&RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü‚¿åûÿÿÿÿH¯&RMAJORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(îê—Š8›ášï¬,H°&RMAJORZ
+CODE_SMELL
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’Á¯»8„ÉØÄ­,H±&RCRITICALZ
+CODE_SMELL
+j
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ð³óîùÿÿÿÿH²&RMAJORZ
+CODE_SMELL
+]squid:S1125+")Remove the literal "false" boolean value.(òÓÌÿ8±é½Â¬,H³&RMINORZ
+CODE_SMELL
+œsquid:S1157#"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(µ“§³þÿÿÿÿ8±é½Â¬,H´&RMINORZ
+CODE_SMELL
+—squid:S1157$"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÆÅö÷8ì˜¦ï¬,Hµ&RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çê§ô8ËàŠ›­,H¶&RMAJORZ
+CODE_SMELL
+l
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Á’á–8˜È²î¬,H·&RMAJORZ
+CODE_SMELL
+j
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ØÎ½äþÿÿÿÿH¸&RMAJORZ
+CODE_SMELL

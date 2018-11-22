@@ -1,0 +1,50 @@
+package baitapso1;
+
+import java.util.Scanner;
+
+public class Bai18 {
+	
+	private static final int MAX = 50;
+	
+	private static Scanner scanner = new Scanner(System.in);
+	
+	static int inputNum(int max) {
+		int n;
+		do {
+			System.out.printf("Nhập n (không quá %d):  ", max);
+			n = scanner.nextInt();
+		} while (n >max);
+		return n;
+	}
+	
+	static int[] inputArray(int size, int digits) {
+		int[] arr = new int[size];
+		int in;
+		System.out.printf("Nhập mảng (gồm các số có %d chữ số)\n", digits);
+		
+		for (int i=0; i<size; i++) {
+			do {
+				System.out.print("Nhập phần tử thứ " + (i+1) +":  ");
+				in = scanner.nextInt();
+			} while (in<Math.pow(10,digits-1) || in> (Math.pow(10, digits)-1));
+			
+			arr[i] = in;
+		}
+		return arr;
+	}
+	
+	private static void output(int n, int[] arr) {
+		System.out.print("KẾT LUẬN: ");
+		if (Function.reversible(n, arr)) {
+			System.out.println("Mảng đối xứng");
+		}
+		else System.out.println("Mảng không đối xứng");
+	}
+	
+	public static void main(String[] args) {
+		int n = inputNum(MAX);;
+		int[] a = inputArray(n, 3);
+		
+		output(n, a);
+	}
+}

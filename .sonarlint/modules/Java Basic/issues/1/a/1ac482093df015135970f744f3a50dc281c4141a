@@ -1,0 +1,13 @@
+
+jsquid:S1197"8Move the array designator from the variable to the type.(µº¦ÑûÿÿÿÿHüwRMINORZ
+CODE_SMELL
+ysquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÿ£çÿÿÿÿÿ8£Æóï,HıwRBLOCKERZBUG
+usquid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8²¾»óï,HşwRMINORZ
+CODE_SMELL
+Usquid:S1659"#Declare "index" on a separate line.(šÀıŠşÿÿÿÿHÿwRMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿH€xRMINORZ
+CODE_SMELL
+ssquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÿ£çÿÿÿÿÿHxRMINORZ
+CODE_SMELL
+}squid:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(£Š€şşÿÿÿÿ8‘âĞóï,H‚xRBLOCKERZBUG

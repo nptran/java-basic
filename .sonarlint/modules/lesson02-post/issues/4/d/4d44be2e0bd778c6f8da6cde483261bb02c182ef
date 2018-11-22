@@ -1,0 +1,10 @@
+
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HóNRMAJORZ
+CODE_SMELL
+Ysquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHôNRMINORZVULNERABILITY
+Ysquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿHõNRMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHöNRMAJORZ
+CODE_SMELL
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì§ãH÷NRMINORZ
+CODE_SMELL
+Xsquid:S1989"(Add a "try/catch" block for "getWriter".(ÏÚ‚´HøNRMINORZVULNERABILITY

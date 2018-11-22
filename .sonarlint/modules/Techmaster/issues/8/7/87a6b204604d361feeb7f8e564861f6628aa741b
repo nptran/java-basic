@@ -1,0 +1,11 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê›¥k8×²Şˆ¦,HURMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù¾ı”şÿÿÿÿH‚URMINORZ
+CODE_SMELL
+Šsquid:S1450"QRemove the "sc" field and declare it as a local variable in the relevant methods.(Ù¿ó¼üÿÿÿÿ8×²Şˆ¦,HƒURMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÿÀÿÿÿÿÿ8×²Şˆ¦,H„URMAJORZ
+CODE_SMELL

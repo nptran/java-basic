@@ -1,0 +1,5 @@
+
+tsquid:S2094"BRemove this empty class, write its code or make it an "interface".(âÂèÂùÿÿÿÿH˜VRMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Õ¼€ÜÖ,H™VRMINORZ
+CODE_SMELL

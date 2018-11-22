@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.mystudent.repository;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+public interface MajorRepository {
+
+}

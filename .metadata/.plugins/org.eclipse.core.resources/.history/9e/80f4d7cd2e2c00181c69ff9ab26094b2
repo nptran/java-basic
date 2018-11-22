@@ -1,0 +1,13 @@
+package com.techmaster.tape;
+
+public class Tape {
+	public Tape() {
+		// TODO Auto-generated constructor stub
+		String name;
+		int code;
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

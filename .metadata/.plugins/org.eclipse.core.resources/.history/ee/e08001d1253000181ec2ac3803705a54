@@ -1,0 +1,37 @@
+package com.java.lesson2;
+import java.util.Scanner;
+
+public class Ex3 {
+	
+	public static void display(int[] arr, int n) {
+		
+		Scanner sc = new Scanner(System.in);
+		for(int counter=0;counter<n;counter++) {
+				arr[counter] = sc.nextInt();
+		}
+		sc.close();	
+		
+		for(int x:arr)
+			System.out.print(x + "\t");
+	}
+	
+	public static void findMax(int[] arr, int n) {
+		
+		int Max1 = arr[0];
+		int Max2 = 0;
+		
+		for(int i = 2; i < n; i++) {
+			int tmp = 0;
+					if(Max1 < arr[i]) {
+						tmp = Max1;
+						Max1 = arr[i];
+						Max2 = tmp;
+					}
+					
+			}
+	
+		System.out.println("\n1st Max value is: " + Max1);
+		System.out.println("\n2nd Max value is: " + Max2);
+	}
+
+}

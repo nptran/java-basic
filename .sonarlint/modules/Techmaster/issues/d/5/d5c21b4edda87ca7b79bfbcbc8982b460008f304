@@ -1,0 +1,11 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Σ―ª8ιύλ²,Hβ8RMAJORZ
+CODE_SMELL
+€squid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Οƒ—ϊÿÿÿÿ8ιύλ²,Hα8RBLOCKERZBUG
+Vsquid:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8ιύλ²,Hΰ8RBLOCKERZBUG
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μΏχσϊÿÿÿÿ8ιύλ²,Hδ8RMINORZ
+CODE_SMELL
+psquid:S1854"<Remove this useless assignment to local variable "sendData".(έλ‹Τ8ιύλ²,Hγ8RMAJORZ
+CODE_SMELL
+_squid:S1148""#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ιύλ²,Hε8RMINORZVULNERABILITY

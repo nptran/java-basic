@@ -1,0 +1,17 @@
+
+bsquid:S1604ƒ"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ8áá·´¹,HóURMAJORZ
+CODE_SMELL
+_squid:S1148f"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8áá·´¹,HôURMINORZVULNERABILITY
+\squid:S1948"%Make "ois" transient or serializable.(à‚åÛ8áá·´¹,HõURCRITICALZ
+CODE_SMELL
+asquid:S1604x"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ8áá·´¹,HöURMAJORZ
+CODE_SMELL
+hsquid:S1948",Make "connection" transient or serializable.(™ô­ºýÿÿÿÿ8áá·´¹,H÷URCRITICALZ
+CODE_SMELL
+_squid:S1148;"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8áá·´¹,HøURMINORZVULNERABILITY
+‡squid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Â‰ˆ•üÿÿÿÿ8áá·´¹,HùURMAJORZ
+CODE_SMELL
+\squid:S1948"%Make "oos" transient or serializable.(þ°Âå8áá·´¹,HúURCRITICALZ
+CODE_SMELL
+asquid:S1604#"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ8áá·´¹,HûURMAJORZ
+CODE_SMELL

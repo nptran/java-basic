@@ -1,0 +1,24 @@
+
+Osquid:S2189)""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHû9RBLOCKERZBUG
+Osquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHü9RBLOCKERZBUG
+_squid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHı9RCRITICALZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¶îÇHş9RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ§©ƒıÿÿÿÿHÿ9RMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ôµÙĞúÿÿÿÿH€:RMAJORZ
+CODE_SMELL
+csquid:S1135""2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH:RINFOZ
+CODE_SMELL
+Usquid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®H‚:RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¼ÿ•Hƒ:RMINORZ
+CODE_SMELL
+Xsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH„:RMINORZVULNERABILITY
+Xsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH…:RMINORZVULNERABILITY
+Xsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH†:RMINORZVULNERABILITY
+Xsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH‡:RMINORZVULNERABILITY

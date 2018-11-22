@@ -1,0 +1,35 @@
+package javavabasic;
+
+import java.util.Scanner;
+
+public class A {
+	private static Scanner scanner = new Scanner(System.in);
+	
+	public static int UCLN(int a, int b) {
+		return (b == 0) ? a: UCLN(b, a % b);
+	}
+	
+	public static int BCNN(int a, int b) {
+		return (a*b)/(UCLN(a, b));
+	}
+	
+	public static void main(String[] args) {
+		int n = scanner.nextInt();
+		int counter =1;
+		int[] arr = new int[n*2];
+		int index =0;
+		
+		do {
+			int a = scanner.nextInt();
+			int b = scanner.nextInt();
+			
+			arr[index++] = a;
+			arr[index++] = b;
+			counter++;
+		} while (counter <=n);
+		
+		for (int i=0; i <arr.length-1; i+=2) {
+			System.out.println(UCLN(arr[i], arr[i+1]) + " " + BCNN(arr[i], arr[i+1]));
+		}
+	}
+}

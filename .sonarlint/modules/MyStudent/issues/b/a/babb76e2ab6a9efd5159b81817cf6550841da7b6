@@ -1,0 +1,7 @@
+
+˜squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8¹’¬Êð,H˜¥RMINORZ
+CODE_SMELL
+}squid:UselessImportCheck"6Remove this unused import 'com.mystudent.model.Major'.(³€¾¢ùÿÿÿÿ8¹’¬Êð,H™¥RMINORZ
+CODE_SMELL
+•squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8¹’¬Êð,H—¥RMINORZ
+CODE_SMELL

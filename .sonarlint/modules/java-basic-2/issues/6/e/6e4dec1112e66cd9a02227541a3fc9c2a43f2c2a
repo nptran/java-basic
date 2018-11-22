@@ -1,0 +1,12 @@
+
+…squid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ã²’…8£¸›ëÞ,HðgRMAJORZ
+CODE_SMELL
+‡squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀµçvHëgRMINORZ
+CODE_SMELL
+•squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "rectangle".(Œ”¨¯8£¸›ëÞ,HïgRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã²’…8£¸›ëÞ,HîgRMAJORZ
+CODE_SMELL
+]squid:S1659	"$Declare "height" on a separate line.(ŒÎ‡òÿÿÿÿÿ8£¸›ëÞ,HígRMINORZ
+CODE_SMELL

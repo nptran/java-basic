@@ -1,0 +1,27 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(··²Óıÿÿÿÿ8ÿ·Å»°,Hœ/RMAJORZ
+CODE_SMELL
+‡squid:UselessImportCheck	"ARemove this unused import 'com.classroommanager.model.ClassRoom'.(¥İ´õúÿÿÿÿ8ùï½°,HÉ/RMINORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(€×çœ8ùï½°,HÆ/RMAJORZ
+CODE_SMELL
+^squid:S3457"%String contains no format specifiers.(··²Óıÿÿÿÿ8ÿ·Å»°,H¢/RMAJORZ
+CODE_SMELL
+Šsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(··²Óıÿÿÿÿ8ÿ·Å»°,H¡/RMAJORZ
+CODE_SMELL
+„squid:UselessImportCheck
+"DRemove this unused import 'com.classroommanager.model.ComputerRoom'.(‘¥Ÿz8ùï½°,HÈ/RMINORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"BRemove this unused import 'com.classroommanager.model.Laboratory'.(ÔÅÁù8ùï½°,HÇ/RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(­·™°8ÿ·Å»°,HŸ/RMAJORZ
+CODE_SMELL
+—squid:UselessImportCheck"QRemove this unused import 'com.classroommanager.controller.LaboratoryController'.(½Úƒüÿÿÿÿ8¨£Å½°,HÙ/RMINORZ
+CODE_SMELL
+‘squid:UselessImportCheck"PRemove this unused import 'com.classroommanager.controller.ClassRoomController'.(ë½¥¼8¨£Å½°,HÚ/RMINORZ
+CODE_SMELL
+™squid:UselessImportCheck"SRemove this unused import 'com.classroommanager.controller.ComputerRoomController'.(Š½š€şÿÿÿÿ8¨£Å½°,HÛ/RMINORZ
+CODE_SMELL

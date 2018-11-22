@@ -1,0 +1,38 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¹”Ýøÿÿÿÿ8îõ€Ã®,H¯+RMAJORZ
+CODE_SMELL
+~squid:UselessImportCheck"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8ÜòÝÃ®,H°+RMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"2Remove this unused import 'java.util.OptionalInt'.(š”üÏ8£Ç­æ®,H±+RMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8ŒòÞ¾®,H²+RMINORZ
+CODE_SMELL
+~squid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8£Ç­æ®,H³+RMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8£Ç­æ®,H´+RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8£Ç­æ®,Hµ+RMINORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H¶+RMINORZ
+CODE_SMELL
+tsquid:UselessImportCheck"3Remove this unused import 'java.text.NumberFormat'.(¿¸ž»8ŒòÞ¾®,H·+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö©â•ùÿÿÿÿ8£Ç­æ®,H¸+RMAJORZ
+CODE_SMELL
+esquid:S1612 ",Replace this lambda with a method reference.(ž²º¦øÿÿÿÿ8 ‘ßÁ®,H¹+RMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck	"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8 ‘ßÁ®,Hº+RMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8£Ç­æ®,H»+RMINORZ
+CODE_SMELL
+zsquid:UselessImportCheck
+"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ç¥ÌÀ®,H¼+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÿÇÈüÿÿÿÿ8£Ç­æ®,H½+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇŸøÅ8£Ç­æ®,H¾+RMAJORZ
+CODE_SMELL

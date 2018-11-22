@@ -1,0 +1,45 @@
+package com.java.lesson3;
+
+public class Sample {
+	public static void main(String[] args) {
+		
+	String str = "abcde";
+//	System.out.println(str.indexOf("a")); //phuong thuc indexOf() cho ra vi tri cua ki tu trong chuoi
+//	System.out.println(str.length());	//phuong thuc lenght() cho ra chieu dai chuoi
+//	System.out.println(str.charAt(1));	//phuong thuc charAt() cho ra ki tu o vi tri da chon
+//	System.out.println(str.substring(1, 4)); //phuong thuc substring(begin index, end index) lay ra ki tu trong chuoi
+//	
+//	String str1 = "AbCdeF";
+//	String str2 = "aBcdEF";
+//	System.out.println(str1.equals(str2)); //So sanh chuoi
+//	System.out.println(str1 == str2);
+//	System.out.println(str1.equalsIgnoreCase(str2)); //So sanh chuoi khong ke In hoa
+//	System.out.println(str1.startsWith("AbC")); //kiem tra ky tu dau
+//	System.out.println(str1.endsWith("dEF")); //kiem tra ky tu cuoi
+//	System.out.println(str1.concat(str2));//noi hai chuoi ky tu
+//	System.out.println(str1.contains(str2));
+//	System.out.println(str1.replace("A", "a")); // thay the ky tu trong chuoi
+//
+//	String result = "            AA        bc".trim(); //xoa khoang trang truoc chuoi
+//	System.out.println(result);
+
+	System.out.println(toTitleCase(str));
+	}
+	public static String toTitleCase(String input) {// Ham viet hao chu cai dau
+	    StringBuilder titleCase = new StringBuilder();
+	    boolean nextTitleCase = true;
+
+	    for (char c : input.toCharArray()) {
+	        if (Character.isSpaceChar(c)) {
+	            nextTitleCase = true;
+	        } else if (nextTitleCase) {
+	            c = Character.toTitleCase(c);
+	            nextTitleCase = false;
+	        }
+
+	        titleCase.append(c);
+	    }
+
+	    return titleCase.toString();
+	}
+}

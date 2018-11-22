@@ -1,0 +1,18 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(…•íø8ÙªŞº,H‡ORMAJORZ
+CODE_SMELL
+ksquid:S1068"2Remove this unused "alternateEmail" private field.(¢­‰ïıÿÿÿÿ8ÙªŞº,H†ORMAJORZ
+CODE_SMELL
+gsquid:S1068
+".Remove this unused "department" private field.(š…¡êûÿÿÿÿ8ÙªŞº,H„ORMAJORZ
+CODE_SMELL
+esquid:S1068	",Remove this unused "password" private field.(œãë­úÿÿÿÿ8ÙªŞº,HƒORMAJORZ
+CODE_SMELL
+fsquid:S1068"3Remove this unused "mailboxCapacity" private field.(â±Ÿr8ÙªŞº,H…ORMAJORZ
+CODE_SMELL
+ysquid:UnusedPrivateMethod"2Remove this unused private "setDepartment" method.(æØôÀûÿÿÿÿ8ƒ““º,H’ORMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(·¦äôüÿÿÿÿ8ƒ““º,H“ORMAJORZ
+CODE_SMELL

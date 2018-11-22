@@ -1,0 +1,108 @@
+
+k
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ì²¤ùùÿÿÿÿHÇ-RMAJORZ
+CODE_SMELL
+e
+squid:S106A"9Replace this use of System.out or System.err by a logger.(êô—ûHÓ-RMAJORZ
+CODE_SMELL
+k
+squid:S106›"9Replace this use of System.out or System.err by a logger.(®èûÿÿÿÿÿHÃ-RMAJORZ
+CODE_SMELL
+f
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(÷šú»H½-RMAJORZ
+CODE_SMELL
+f
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ÆÀ¤™H³-RMAJORZ
+CODE_SMELL
+f
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ÃÍ”±Hº-RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¢™¨HÏ-RMAJORZ
+CODE_SMELL
+f
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ÆÀ¤™H´-RMAJORZ
+CODE_SMELL
+k
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(‚‰ÓşÿÿÿÿHÄ-RMAJORZ
+CODE_SMELL
+`squid:S1199Ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿH»-RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(·Æ€HÀ-RMAJORZ
+CODE_SMELL
+k
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(Æ¶µ¸üÿÿÿÿH¸-RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¥öÕH·-RMAJORZ
+CODE_SMELL
+e
+squid:S106m"9Replace this use of System.out or System.err by a logger.(Á’á–HÑ-RMAJORZ
+CODE_SMELL
+k
+squid:S106—"9Replace this use of System.out or System.err by a logger.(­ÂêéûÿÿÿÿH²-RMAJORZ
+CODE_SMELL
+e
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ı‘µ–HÉ-RMAJORZ
+CODE_SMELL
+j
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ãğ…şÿÿÿÿHÊ-RMAJORZ
+CODE_SMELL
+[squid:S1125<")Remove the literal "false" boolean value.(ü¦ööüÿÿÿÿHÅ-RMINORZ
+CODE_SMELL
+k
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Õ’÷äùÿÿÿÿHÖ-RMAJORZ
+CODE_SMELL
+k
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿHÕ-RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø÷‰¾HË-RMAJORZ
+CODE_SMELL
+j
+squid:S106p"9Replace this use of System.out or System.err by a logger.(ÿ±§›ÿÿÿÿÿH¶-RMAJORZ
+CODE_SMELL
+j
+squid:S106a"9Replace this use of System.out or System.err by a logger.(œÁÀùıÿÿÿÿHµ-RMAJORZ
+CODE_SMELL
+k
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿH¹-RMAJORZ
+CODE_SMELL
+e
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¼€ävHÍ-RMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(œÁÀùıÿÿÿÿHÈ-RMAJORZ
+CODE_SMELL
+e
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Á’á–HĞ-RMAJORZ
+CODE_SMELL
+j
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ºœ×šûÿÿÿÿH¾-RMAJORZ
+CODE_SMELL
+[squid:S1125e")Remove the literal "false" boolean value.(ü¦ööüÿÿÿÿHÌ-RMINORZ
+CODE_SMELL
+`squid:S1199´"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÎ-RMINORZ
+CODE_SMELL
+k
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(õÑ†”şÿÿÿÿHÂ-RMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó…Ó2H¼-RMAJORZ
+CODE_SMELL
+e
+squid:S106j"9Replace this use of System.out or System.err by a logger.(êô—ûHÆ-RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿŸ–»HÒ-RMAJORZ
+CODE_SMELL
+j
+squid:S106G"9Replace this use of System.out or System.err by a logger.(–éÀùÿÿÿÿH¿-RMAJORZ
+CODE_SMELL
+k
+squid:S106€"9Replace this use of System.out or System.err by a logger.(§Í¿ÿÿÿÿÿHÁ-RMAJORZ
+CODE_SMELL
+e
+squid:S106g"9Replace this use of System.out or System.err by a logger.(¤÷èHÔ-RMAJORZ
+CODE_SMELL

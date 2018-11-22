@@ -1,0 +1,5 @@
+
+lsquid:S1118":Add a private constructor to hide the implicit public one.(Ýµï„üÿÿÿÿH¶GRMAJORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH·GRMINORZVULNERABILITY
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¸GRMINORZVULNERABILITY

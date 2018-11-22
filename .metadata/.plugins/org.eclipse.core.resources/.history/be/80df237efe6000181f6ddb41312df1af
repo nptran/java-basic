@@ -1,0 +1,52 @@
+package com.webdemo;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/employee.html")
+public class Index extends HttpServlet {
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		String fc = "GET được gọi";
+		req.setAttribute("fc", fc);
+		req.getRequestDispatcher("index.jsp").forward(req, resp);
+	}
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		int num1, num2, result = 0;
+		
+		if(req.getParameter("txtNum1").equals("")) {
+			num1 = 0;
+		} else {
+			num1 = Integer.parseInt(req.getParameter("txtNum1"));
+		}
+		if(req.getParameter("txtNum2").equals("")) {
+			num2 = 0;
+		} else {
+			num2 = Integer.parseInt(req.getParameter("txtNum2"));
+		}
+		String handle = req.getParameter("btCalculate");
+		if (handle.equals("add"))
+			result = num1+num2;
+		if (handle.equals("minus"))
+			result = num1-num2;
+		if (handle.equals("multiply"))
+			result = num1*num2;
+		if (handle.equals("divide"))
+			result = num1/num2;
+		
+		req.setAttribute("n1", num1);
+		req.setAttribute("n2", num2);
+		req.setAttribute("rs", result);
+		
+		req.getRequestDispatcher("result.jsp").forward(req, resp);
+		
+	}
+
+}

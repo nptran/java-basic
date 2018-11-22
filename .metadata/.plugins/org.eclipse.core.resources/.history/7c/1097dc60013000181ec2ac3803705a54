@@ -1,0 +1,14 @@
+package com.java.lesson2;
+
+import java.util.Scanner;
+
+public class homeWork{
+	
+	public static void main(String[] args) {
+		//Ex1.menu();
+		//Ex2.basicCalculator();		
+		Ex3.getValues();
+		//Ex3.findMax(a, n);
+	}
+}
+

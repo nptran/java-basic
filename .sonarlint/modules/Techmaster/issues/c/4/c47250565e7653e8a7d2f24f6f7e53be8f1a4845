@@ -1,0 +1,41 @@
+
+\squid:EmptyStatementUsageCheckL"Remove this empty statement.(Ó¥³H¿RMINORZ
+CODE_SMELL
+\squid:EmptyStatementUsageCheckg"Remove this empty statement.(Î÷ÉĞHÀRMINORZ
+CODE_SMELL
+\squid:EmptyStatementUsageCheck"Remove this empty statement.(ò·«2HÁRMINORZ
+CODE_SMELL
+_squid:S1199$"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÂRMINORZ
+CODE_SMELL
+_squid:S1199C"-Extract this nested code block into a method.(³€·„ıÿÿÿÿHÃRMINORZ
+CODE_SMELL
+_squid:S1199]"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÄRMINORZ
+CODE_SMELL
+_squid:S1199x"-Extract this nested code block into a method.(¦§–ÖûÿÿÿÿHÅRMINORZ
+CODE_SMELL
+{
+squid:S128‘"LEnd this switch case with an unconditional break, return or throw statement.(ÂŒãõHÆRBLOCKERZ
+CODE_SMELL
+j
+squid:S1068"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+j
+squid:S106S"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+j
+squid:S106n"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+k
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+k
+squid:S106’"9Replace this use of System.out or System.err by a logger.(®µÜ¢ıÿÿÿÿHËRMAJORZ
+CODE_SMELL
+k
+squid:S106–"9Replace this use of System.out or System.err by a logger.(’²ÿ­ûÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+k
+squid:S106£"9Replace this use of System.out or System.err by a logger.(âŞıŸüÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+‚squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘HÎRCRITICALZ
+CODE_SMELL

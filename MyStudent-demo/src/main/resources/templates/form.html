@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/layout :: common-header"></head>
+<body>
+    <div class="header-nightsky">
+		<nav th:replace="fragments/layout :: header"></nav>
+
+	    <div class="hero form" style="margin:auto;">
+	        <div class="row">
+		        <form action="#" th:action="@{/student/save}" th:object="${student}"
+				    method="POST" novalidate="novalidate">
+				    
+				    <!-- If no major has created -->
+				    <th:block th:if="${#lists.isEmpty(majorsBind)}">
+						<script type="text/javascript">
+			                window.onload = function() {
+			                    if(confirm("Chưa có chuyên ngành nào! Hãy tạo chuyên ngành trước!")) {
+			                    	window.location="http://localhost:8080/major/create";
+			                    }
+			                };
+						</script>			
+						<h3>Hãy Tạo Chuyên Ngành Trước</h3>
+					</th:block>
+				    
+				    <!-- Unless show form input -->
+			        <th:block th:unless="${#lists.isEmpty(majorsBind)}">
+					    <h2 style="font-size: 47px; margin-top: 0; margin-bottom: 20px">Thêm Sinh Viên</h2>
+					    <input type="hidden" th:field="*{id}" />
+					    <div class="form-group">
+					        <label>Tên</label> 
+					        <input type="text" class="form-control" th:field="*{name}" placeholder="Đánh tên vào đây..."/> 
+					        <span class="label label-danger" th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Lỗi nhập tên</span>
+					    </div>
+					    <div class="form-group">
+					        <label>Ngày Sinh</label> 
+					        <input type="text" class="form-control" th:field="*{dob}" placeholder="dd/MM/yyyy..."/>
+					        <span class="label label-danger" th:if="${#fields.hasErrors('dob')}" th:errors="*{dob}">Lỗi định dạng ngày tháng</span>
+					    </div>
+					    <div class="form-group">
+					        <label>Địa Chỉ</label> 
+					        <input type="text" class="form-control" th:field="*{hometown}" placeholder="Thành phố, địa chỉ, số nhà..."/>
+					        <span class="label label-danger" th:if="${#fields.hasErrors('dob')}" th:errors="*{dob}">Lỗi định dạng ngày tháng</span>
+					    </div>
+					   	<div class="form-group col-md-4">
+						  <label for="inputGender">Giới Tính</label>
+						  <select id="inputGender" class="form-control" th:field="*{gender}">
+             				<option th:each="dropDownItem : ${genders}" th:value="${dropDownItem}" th:text="${dropDownItem}" />
+						  </select>
+						</div>
+						<div class="form-group col-md-8">
+						  <label for="inputGender">Chuyên Ngành</label>
+						  <select id="inputGender" class="form-control" th:field="*{major.id}">
+             				<option th:each="dropDownItem : ${majorsBind}" th:value="${dropDownItem.id}" th:text="${dropDownItem.name}" />
+						  </select>
+						</div>
+					    
+					    <button type="submit" class="btn btn-primary" style="margin-right:0px">Lưu</button>
+				    </th:block>
+				</form>
+	    	</div><!-- /.container -->
+    	</div><!-- /.hero -->
+    </div><!-- /.header-nightsky -->
+
+</body>
+</html>

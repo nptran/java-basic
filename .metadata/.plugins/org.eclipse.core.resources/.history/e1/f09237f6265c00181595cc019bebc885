@@ -1,0 +1,10 @@
+package ImmediateJavaDemo;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String a = "          monster         ";
+		System.out.println(a.trim() + "d");
+
+	}
+}

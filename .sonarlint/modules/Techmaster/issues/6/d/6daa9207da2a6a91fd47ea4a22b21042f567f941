@@ -1,0 +1,49 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê…¼H®URMAJORZ
+CODE_SMELL
+e
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÑóšáH¯URMAJORZ
+CODE_SMELL
+j
+squid:S1065"9Replace this use of System.out or System.err by a logger.(©…Ç¯şÿÿÿÿH°URMAJORZ
+CODE_SMELL
+squid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó×H±URMINORZ
+CODE_SMELL
+j
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ƒ”î¯øÿÿÿÿH²URMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛúÊìûÿÿÿÿH³URMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¹Ì§ıÿÿÿÿH´URMAJORZ
+CODE_SMELL
+j
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÛúÊìûÿÿÿÿHµURMAJORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êò‰ÚH¶URMINORZ
+CODE_SMELL
+’squid:S1192"]Define a constant instead of duplicating this literal "\n==========================" 3 times.(ÛúÊìûÿÿÿÿH·URCRITICALZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉùH¸URMINORZ
+CODE_SMELL
+squid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÒËÙH¹URMINORZ
+CODE_SMELL
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(²®ƒşHºURMAJORZ
+CODE_SMELL
+e
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¬¦Ó¶H»URMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çç¼ÌûÿÿÿÿH¼URMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(›À³ùÿÿÿÿH½URMAJORZ
+CODE_SMELL
+j
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÛúÊìûÿÿÿÿH¾URMAJORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ãğÄîúÿÿÿÿ8·éã¦,H¿URMAJORZ
+CODE_SMELL

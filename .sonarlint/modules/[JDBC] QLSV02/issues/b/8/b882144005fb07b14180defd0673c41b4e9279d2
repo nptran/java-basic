@@ -1,0 +1,32 @@
+
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿH FRMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³ß•³ùÿÿÿÿH¡FRMINORZ
+CODE_SMELL
+€squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(“òïH¢FRMINORZ
+CODE_SMELL
+psquid:S2095'"HUse try-with-resources or close this "Connection" in a "finally" clause.(«æïH£FRBLOCKERZBUG
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(›®Ø§H¤FRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôáò‰H¥FRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Á‚çH¦FRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¬Ç•H§FRMAJORZ
+CODE_SMELL
+j
+squid:S106^"9Replace this use of System.out or System.err by a logger.(€ÖÒ”ıÿÿÿÿH¨FRMAJORZ
+CODE_SMELL
+e
+squid:S106d"9Replace this use of System.out or System.err by a logger.(š¡ÕH©FRMAJORZ
+CODE_SMELL
+e
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ñ©öÀHªFRMAJORZ
+CODE_SMELL
+Xsquid:S1148)"#Use a logger to log this exception.(ÂşÿâûÿÿÿÿH«FRMINORZVULNERABILITY
+Xsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¬FRMINORZVULNERABILITY
+Xsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH­FRMINORZVULNERABILITY

@@ -1,0 +1,5 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“H³<RMINORZ
+CODE_SMELL
+€squid:UselessImportCheck"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8±™Þô²,HÍ<RMINORZ
+CODE_SMELL

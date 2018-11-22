@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.mystudent.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+
+@Controller
+public class MajorController {
+
+	
+	
+}

@@ -1,0 +1,12 @@
+
+Xsquid:S1659"&Declare "testCase" on a separate line.(²Áè—þÿÿÿÿH§fRMINORZ
+CODE_SMELL
+Rsquid:S1659" Declare "s2" on a separate line.(·óÇ©ÿÿÿÿÿH¨fRMINORZ
+CODE_SMELL
+Usquid:S1659"#Declare "temp2" on a separate line.(·óÇ©ÿÿÿÿÿH©fRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶Ô¼øHªfRMAJORZ
+CODE_SMELL
+Usquid:S1659"#Declare "temp1" on a separate line.(·óÇ©ÿÿÿÿÿH«fRMINORZ
+CODE_SMELL

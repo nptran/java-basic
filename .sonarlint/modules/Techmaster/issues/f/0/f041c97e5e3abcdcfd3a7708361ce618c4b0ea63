@@ -1,0 +1,8 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ãŸœüÿÿÿÿ8›Å·—§,HõRMAJORZ
+CODE_SMELL
+fsquid:S1481"-Remove this unused "converts" local variable.(£ê•ªýÿÿÿÿ8›Å·—§,HöRMINORZ
+CODE_SMELL
+usquid:S1854"<Remove this useless assignment to local variable "converts".(£ê•ªýÿÿÿÿ8›Å·—§,H÷RMAJORZ
+CODE_SMELL

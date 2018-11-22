@@ -1,0 +1,7 @@
+
+ƒsquid:UselessImportCheck"<Remove this unused import 'javax.transaction.Transactional'.(ûÒçÑúÿÿÿÿ8ÐèÈÂð,HØ˜RMINORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"<Remove this unused import 'javax.persistence.EntityManager'.(ðàËÒýÿÿÿÿ8ÐèÈÂð,HÙ˜RMINORZ
+CODE_SMELL
+ˆsquid:UselessImportCheck"ARemove this unused import 'javax.persistence.PersistenceContext'.(ê°ÝÒýÿÿÿÿ8ÐèÈÂð,HÚ˜RMINORZ
+CODE_SMELL

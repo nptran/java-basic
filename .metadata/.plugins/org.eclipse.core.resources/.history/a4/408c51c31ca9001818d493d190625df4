@@ -1,0 +1,9 @@
+package baitapso1;
+
+public class Bai17 {
+//	private static int 
+	
+	public static void main(String[] args) {
+		System.out.println(Function.combination(3, 9));
+	}
+}

@@ -1,0 +1,13 @@
+
+wsquid:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ö‰¤òH¼KRBLOCKERZBUG
+wsquid:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã¨¦¼H½KRBLOCKERZBUG
+|squid:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıŒ•œúÿÿÿÿH¾KRBLOCKERZBUG
+tsquid:S2095Z"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ë¼ËûÿÿÿÿH¿KRBLOCKERZBUG
+nsquid:S2095B"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(éßŞ3HÀKRBLOCKERZBUG
+|squid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ìëß¢şÿÿÿÿHÁKRBLOCKERZBUG
+tsquid:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿHÂKRBLOCKERZBUG
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÃKRMINORZVULNERABILITY
+Xsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÄKRMINORZVULNERABILITY
+Xsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÅKRMINORZVULNERABILITY
+Xsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÆKRMINORZVULNERABILITY
+Xsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÇKRMINORZVULNERABILITY

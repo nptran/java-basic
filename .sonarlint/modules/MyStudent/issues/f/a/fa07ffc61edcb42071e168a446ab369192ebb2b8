@@ -1,0 +1,10 @@
+
+‘squid:UselessImportCheck	"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïþÿÿÿÿ8ÐÅ½Äð,HÂ¨RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"8Remove this unused import 'com.mystudent.model.Student'.(¬…› øÿÿÿÿ8ÐÅ½Äð,HÃ¨RMINORZ
+CODE_SMELL
+–squid:UselessImportCheck
+"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿ8ô¦ïìð,HÊ¨RMINORZ
+CODE_SMELL
+rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÐÅ½Äð,HÄ¨RMINORZ
+CODE_SMELL

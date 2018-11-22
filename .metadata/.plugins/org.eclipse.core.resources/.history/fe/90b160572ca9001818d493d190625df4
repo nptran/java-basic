@@ -1,0 +1,40 @@
+package baitapso1;
+
+public class Bai19 {
+	
+	private static final int MAX = 1000;
+	
+	public static int count(int[] arr) {
+		int index = 0;
+		int appearMost = 0;
+		int elementMost = 0;
+		int[] appears = new int[arr.length];
+		
+		for (int i =0; i< arr.length; i++) {
+			int appear =1;
+			for (int j =i; j < arr.length; j++) {
+				if(arr[j] == arr[i] && j!=i) {
+					
+					appear++;
+				}
+			}
+			appears[index++] = appear;
+		}
+		
+		for (int i =0; i<index; i++) {
+			if (appears[i] > appearMost) {
+				appearMost =appears[i];
+			}
+		}
+		
+		return appearMost;
+	}
+	
+	public static void main(String[] args) {
+		int n = Bai18.inputNum(MAX);
+		int[] a = Bai18.inputArray(n);
+		
+		System.out.println("Phần tử xuất hiện nhiều nhất là: " + count(a));
+	}
+
+}

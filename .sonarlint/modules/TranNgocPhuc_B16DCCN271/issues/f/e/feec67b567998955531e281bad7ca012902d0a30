@@ -1,0 +1,58 @@
+
+Tsquid:S2178a"Correct this "|" to "||".(¶Îˆ„şÿÿÿÿ8ÅĞ×¹×,HĞZRBLOCKERZ
+CODE_SMELL
+m
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(øÕ¥ä8¤¦‡××,HåZRMAJORZ
+CODE_SMELL
+‹squid:S3457á"Q%n should be used in place of \n to produce the platform-specific line separator.(½±šœùÿÿÿÿ8…ô…º×,H×ZRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ€HâZRMINORZ
+CODE_SMELL
+squid:S3776m"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷åëàûÿÿÿÿ8ä¹»×,HÓZRCRITICALZ
+CODE_SMELL
+ƒsquid:S00100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§£ñç8Ç²“‘×,HÌZRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÄŸÅùÿÿÿÿ8æİ¹×,HÕZRMAJORZ
+CODE_SMELL
+m
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ªË‰ç8Šì‹º×,HèZRMAJORZ
+CODE_SMELL
+m
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(çÍ™¡8¶¨™»×,HÍZRMAJORZ
+CODE_SMELL
+ssquid:S2184º"ECast one of the operands of this subtraction operation to a "double".(Èˆ÷ì8…ô…º×,HÖZRMINORZBUG
+xsquid:S2184Ç"ECast one of the operands of this subtraction operation to a "double".(àø¦•ıÿÿÿÿ8…ô…º×,HßZRMINORZBUG
+˜squid:S1488Ç"^Immediately return this expression instead of assigning it to the temporary variable "number".(àø¦•ıÿÿÿÿ8…ô…º×,HáZRMINORZ
+CODE_SMELL
+{$squid:AssignmentInSubExpressionCheckS".Extract the assignment out of this expression.(Ç×Ğ¢8›İ“‘×,HãZRMAJORZ
+CODE_SMELL
+r
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(˜¼‡­ıÿÿÿÿ8¤¦‡××,HäZRMAJORZ
+CODE_SMELL
+zsquid:S11265"AReplace this if-then-else statement by a single return statement.(Âù’æşÿÿÿÿ8‰¸˜‘×,HàZRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(±×‘Ëÿÿÿÿÿ8”§‘×,HËZRMAJORZ
+CODE_SMELL
+ˆsquid:S00100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŸûÿÿÿÿ8Ç²“‘×,HÑZRMINORZ
+CODE_SMELL
+†squid:S3457Ñ"Q%n should be used in place of \n to produce the platform-specific line separator.(çÍ™¡8…ô…º×,HİZRMAJORZ
+CODE_SMELL
+q
+squid:S106!"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8”§‘×,HÎZRMAJORZ
+CODE_SMELL
+r
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(ÒŸß“üÿÿÿÿ8…ô…º×,HÜZRMAJORZ
+CODE_SMELL
+nsquid:S1118":Add a private constructor to hide the implicit public one.(çÅ€Ú8Ç²“‘×,HÔZRMAJORZ
+CODE_SMELL
+xsquid:S2184Ç"ECast one of the operands of this subtraction operation to a "double".(àø¦•ıÿÿÿÿ8Šì‹º×,HÛZRMINORZBUG
+{$squid:AssignmentInSubExpressionCheckS".Extract the assignment out of this expression.(Ç×Ğ¢8›İ“‘×,HÙZRMAJORZ
+CODE_SMELL
+ssquid:S2184ª"ECast one of the operands of this subtraction operation to a "double".(Õÿ†æ8æİ¹×,HÊZRMINORZBUG
+r
+squid:S106á"9Replace this use of System.out or System.err by a logger.(½±šœùÿÿÿÿ8Šì‹º×,HØZRMAJORZ
+CODE_SMELL
+†squid:S3457´"Q%n should be used in place of \n to produce the platform-specific line separator.(ªË‰ç8Šì‹º×,HÚZRMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.mystudent.service;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+public interface MajorService {
+
+}

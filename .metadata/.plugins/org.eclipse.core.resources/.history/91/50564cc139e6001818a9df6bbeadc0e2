@@ -1,0 +1,20 @@
+package com.mystudent.repository;
+
+import java.util.List;
+
+import javax.persistence.NamedNativeQuery;
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.mystudent.model.Student;
+
+public interface StudentRepository extends CrudRepository<Student, Integer> {
+
+    List<Student> findByNameContaining(String q);
+    
+    @Query("INSERT INTO student SELECT s.dob,s.name,s.major_id FROM Student s WHERE s.itemId=? and i.itemName=?")
+    void create(@Param("s") Student student);
+
+}

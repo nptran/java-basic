@@ -1,0 +1,23 @@
+
+Zsquid:S1604!"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿHÐLRMAJORZ
+CODE_SMELL
+Xsquid:S1148o"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÔLRMINORZVULNERABILITY
+Usquid:S1948"%Make "oos" transient or serializable.(þ°ÂåHÖLRCRITICALZ
+CODE_SMELL
+Usquid:S1948"%Make "ois" transient or serializable.(à‚åÛH×LRCRITICALZ
+CODE_SMELL
+]squid:S1948"(Make "server" transient or serializable.(­«ÚÒùÿÿÿÿHØLRCRITICALZ
+CODE_SMELL
+€squid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ÿ›áÍùÿÿÿÿHÚLRMAJORZ
+CODE_SMELL
+[squid:S1604"(Make this anonymous inner class a lambda(Ã®­ŠùÿÿÿÿHÑLRMAJORZ
+CODE_SMELL
+gsquid:S11416"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHÏLRMAJORZ
+CODE_SMELL
+Xsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÓLRMINORZVULNERABILITY
+asquid:S1948",Make "connection" transient or serializable.(™ô­ºýÿÿÿÿHÙLRCRITICALZ
+CODE_SMELL
+[squid:S1604"(Make this anonymous inner class a lambda(Ã®­ŠùÿÿÿÿHÒLRMAJORZ
+CODE_SMELL
+Gsquid:S1700"Rename field "server"(­«ÚÒùÿÿÿÿHÕLRMAJORZ
+CODE_SMELL

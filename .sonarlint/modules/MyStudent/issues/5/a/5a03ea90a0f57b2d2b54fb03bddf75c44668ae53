@@ -1,0 +1,7 @@
+
+squid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(·ìÕ08ûà£ñð,H¢­RMAJORZ
+CODE_SMELL
+ƒsquid:S1192F"RDefine a constant instead of duplicating this literal "redirect:/student" 3 times.(×È¿ÙH¥­RCRITICALZ
+CODE_SMELL
+gsquid:S1068"2Remove this unused "subjectService" private field.(¦ÿÆ8á‡ñ,H§­RMAJORZ
+CODE_SMELL

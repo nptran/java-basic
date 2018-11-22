@@ -1,0 +1,10 @@
+
+bsquid:S2140")Use "java.util.Random.nextInt()" instead.(ÎºŸÃÿÿÿÿÿ8ˆ¨±Øº,HålRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëÆ &8ÅØ±Øº,HælRMAJORZ
+CODE_SMELL
+hsquid:EmptyStatementUsageCheck"Remove this empty statement.(ÎºŸÃÿÿÿÿÿ8ÁëµØº,HçlRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Üìþûÿÿÿÿ8Ì‰Ë×º,HèlRMAJORZ
+CODE_SMELL

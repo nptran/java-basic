@@ -1,0 +1,90 @@
+
+asquid:S1199i"-Extract this nested code block into a method.(â†´·8¶®º¾­,Hö%RMINORZ
+CODE_SMELL
+[squid:S1199"-Extract this nested code block into a method.(Åñ³ŸH÷%RMINORZ
+CODE_SMELL
+bsquid:S1199‚"-Extract this nested code block into a method.(²Ó»¹8È²›¼¬,Hø%RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öê„›úÿÿÿÿHù%RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(’’£ˆ8œÍÁÄ¬,Hú%RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(éèç`8¶®º¾­,Hû%RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¥ûÿÿÿÿHü%RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ×X8¶®º¾­,Hı%RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¿éìùÿÿÿÿ8¶®º¾­,Hş%RMAJORZ
+CODE_SMELL
+bsquid:S1199š"-Extract this nested code block into a method.(˜¦Ì²8È²›¼¬,Hÿ%RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úº„èıÿÿÿÿ8õì•›­,H€&RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¯Øz8ºÙÄ’­,H&RMAJORZ
+CODE_SMELL
+gsquid:S1199Ÿ"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8È²›¼¬,H‚&RMINORZ
+CODE_SMELL
+k
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ã¼ÌU8¶®º¾­,Hƒ&RMAJORZ
+CODE_SMELL
+q
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8«‹ÛÃ¬,H„&RMAJORZ
+CODE_SMELL
+r
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8¶®º¾­,H…&RMAJORZ
+CODE_SMELL
+k
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿH†&RMAJORZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ùšİùÿÿÿÿ8¶®º¾­,H‡&RMAJORZ
+CODE_SMELL
+q
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8È²›¼¬,Hˆ&RMAJORZ
+CODE_SMELL
+m
+squid:S106›"9Replace this use of System.out or System.err by a logger.(†ò²¤8½á¤¿­,H‰&RMAJORZ
+CODE_SMELL
+q
+squid:S106p"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8¶®º¾­,HŠ&RMAJORZ
+CODE_SMELL
+ˆsquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Öå«8œÍÁÄ¬,H‹&RCRITICALZ
+CODE_SMELL
+asquid:S1199\"-Extract this nested code block into a method.(ŸÓÈ8¶®º¾­,HŒ&RMINORZ
+CODE_SMELL
+Zsquid:S1199N"-Extract this nested code block into a method.(­±ĞH&RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ş¬ÖH&RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛéÜõÿÿÿÿÿH&RMAJORZ
+CODE_SMELL
+Šsquid:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(Ù‘Ğ8”¼ØÃ¬,H&RMINORZ
+CODE_SMELL
+fsquid:S1199v"-Extract this nested code block into a method.(ªÄ”¾ıÿÿÿÿ8¶®º¾­,H‘&RMINORZ
+CODE_SMELL
+q
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8¶®º¾­,H’&RMAJORZ
+CODE_SMELL
+k
+squid:S106^"9Replace this use of System.out or System.err by a logger.(ã¼ÌU8½á¤¿­,H“&RMAJORZ
+CODE_SMELL
+fsquid:S1199@"-Extract this nested code block into a method.(Í†œ«ıÿÿÿÿ8¶®º¾­,H”&RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¬À•8ºÙÄ’­,H•&RMAJORZ
+CODE_SMELL
+_squid:S11993"-Extract this nested code block into a method.(¯©¦ÿÿÿÿÿH–&RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¾†Äıÿÿÿÿ8È²›¼¬,H—&RMAJORZ
+CODE_SMELL

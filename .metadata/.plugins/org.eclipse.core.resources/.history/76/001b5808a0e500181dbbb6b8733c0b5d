@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/layout :: common-header"></head>
+<body>
+    <div class="header-nightsky">
+		<nav th:replace="fragments/layout :: header"></nav>
+
+	    <div class="hero form" style="margin:auto;">
+	        <div class="row">
+		        <form action="#" th:action="@{/student/save}" th:object="${student}"
+				    method="POST" novalidate="novalidate">
+				    <h2 style="font-size: 47px; margin-top: 0; margin-bottom: 20px">Thêm Sinh Viên</h2>
+				    <input type="hidden" th:field="*{id}" />
+				    <div class="form-group">
+				        <label>Tên</label> 
+				        <input type="text" class="form-control" th:field="*{name}" placeholder="Đánh tên vào đây..."/> 
+				        <span class="label label-danger" th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Lỗi nhập tên</span>
+				    </div>
+				    <div class="form-group">
+				        <label>Ngày Sinh</label> 
+				        <input type="text" class="form-control" th:field="*{dob}" placeholder="Nhập ngày sinh vào đây..."/>
+				        <span class="label label-danger" th:if="${#fields.hasErrors('dob')}" th:errors="*{dob}">Lỗi định dạng ngày tháng</span>
+				    </div>
+				    <div class="form-group">
+				        <label>Chuyên Ngành</label> 
+				        <input type="text" class="form-control" th:field="*{major_id}" placeholder="Nhập chuyên ngành chỗ này..."/>
+                        <span class="label label-danger" th:if="${#fields.hasErrors('major_id')}" th:errors="*{major_id}">Lỗi nhập chuyên ngành</span>
+				    </div>
+				    <button type="submit" class="btn btn-primary" style="margin-right:0px">Lưu</button>
+				</form>
+	    	</div><!-- /.container -->
+    	</div><!-- /.hero -->
+    </div><!-- /.header-nightsky -->
+
+</body>
+</html>

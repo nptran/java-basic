@@ -1,0 +1,5 @@
+
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¤×²ã°,HÁ:RMINORZVULNERABILITY
+fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¤×²ã°,HÀ:RCRITICALZ
+CODE_SMELL
+vsquid:S2259"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ8¤×²ã°,H¿:RMAJORZBUG

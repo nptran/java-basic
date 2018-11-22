@@ -1,0 +1,77 @@
+
+…squid:S1192"PDefine a constant instead of duplicating this literal "3. Back to Menu" 4 times.(ŒûúçøÿÿÿÿHâRCRITICALZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÃ×ìýÿÿÿÿHãRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(›®Ø§HäRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûôÔèHåRMAJORZ
+CODE_SMELL
+e
+squid:S106	"9Replace this use of System.out or System.err by a logger.(°Á‚çHæRMAJORZ
+CODE_SMELL
+e
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Çÿ¸ÈHçRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(š”¹ÏHèRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÓÓ¦þÿÿÿÿHéRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÎ’áHêRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ùÔèHëRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÄ½ºÿÿÿÿÿHìRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒûúçøÿÿÿÿHíRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(«×™õHîRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÇ°÷HïRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ‚îãHðRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒûúçøÿÿÿÿHñRMAJORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(„žÒÜúÿÿÿÿHòRMAJORZ
+CODE_SMELL
+e
+squid:S106!"9Replace this use of System.out or System.err by a logger.(áð¹àHóRMAJORZ
+CODE_SMELL
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(³¤í–HôRMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ŒûúçøÿÿÿÿHõRMAJORZ
+CODE_SMELL
+j
+squid:S106("9Replace this use of System.out or System.err by a logger.(å˜ÔõúÿÿÿÿHöRMAJORZ
+CODE_SMELL
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‚°ØÏH÷RMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ì‰…ŸHøRMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ŒûúçøÿÿÿÿHùRMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(¤€ûºüÿÿÿÿHúRMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤€ûºüÿÿÿÿHûRMINORZ
+CODE_SMELL

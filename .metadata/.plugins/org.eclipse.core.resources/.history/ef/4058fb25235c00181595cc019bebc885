@@ -1,0 +1,14 @@
+package ImmediateJavaDemo;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String[] words = { "funk", " chunk", "Furious", "naked" };
+		for (String w : words) {
+			if(w.startsWith("fu".toUpperCase(null))) {
+				System.out.println(w + " starts with fu.");
+			}
+		}
+
+	}
+}

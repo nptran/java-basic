@@ -1,0 +1,57 @@
+/**
+ * 
+ */
+package com.mystudent.controller;
+
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+
+import com.mystudent.model.Major;
+import com.mystudent.model.Student;
+import com.mystudent.service.MajorService;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+
+@Controller
+public class MajorController {
+
+	private MajorService majorService;
+
+	@Autowired
+	public MajorController(MajorService majorService) {
+		this.majorService = majorService;
+	}
+	
+	@GetMapping(path = {"/student"})
+	public String index(Model model) {
+		model.addAttribute("students", studentService.getAll());
+		return "list";
+	}
+
+	@GetMapping("/major/create")
+	public String create(Model major) {
+		major.addAttribute("major", new Major());
+		return "form";
+	}
+
+	@PostMapping("/major/save")
+	public String save(@Valid Major major, BindingResult result, RedirectAttributes redirect) {
+		if (result.hasErrors()) {
+			return "form";
+		}
+		majorService.save(major);
+		return "redirect:/student";
+	}
+
+}

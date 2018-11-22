@@ -1,0 +1,30 @@
+//Tao interface ma co 4 phuong thuc  
+interface A{  
+	void a();//theo mac dinh, public va abstract  
+	void b();  
+	void c();  
+	void d();  
+}  
+  
+//Tao lop abstract ma cung cap trinh trien khai cua mot phuong thuc cua A interface  
+abstract class B implements A{  
+	public void c(){System.out.println("Toi la C");}  
+}  
+  
+//Tao lop con cua lop abstract, bay gio chung ta can cung cap trinh trien khai cho cac phuong thuc con lai  
+class M extends B{  
+	public void a(){System.out.println("Toi la a");}  
+	public void b(){System.out.println("Toi la b");}  
+	public void d(){System.out.println("Toi la d");}  
+}  
+  
+//Tao mot lop Test ma goi cac phuong thuc cua A interface  
+class Test5{  
+	public static void main(String args[]) {  
+		A a=new M();  
+		a.a();  
+		a.b();  
+		a.c();  
+		a.d();  
+	}
+}

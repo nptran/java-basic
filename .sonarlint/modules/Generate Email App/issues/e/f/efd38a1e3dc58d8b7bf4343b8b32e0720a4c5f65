@@ -1,0 +1,13 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙñÅ8ÏŒ×º,H”RRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨œœƒ8ÏŒ×º,H•RRMAJORZ
+CODE_SMELL
+{squid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ú•ô¯8ÏŒ×º,H–RRBLOCKERZBUG
+nsquid:S1118
+":Add a private constructor to hide the implicit public one.(¨ÿ§¢8ÏŒ×º,H—RRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ôÃ²8ÏŒ×º,H˜RRMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(•°¬ñûÿÿÿÿ8˜¬õÇ¶,H»GRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ßËÔüÿÿÿÿ8˜¬õÇ¶,H¼GRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(„ã‚¢üÿÿÿÿ8˜¬õÇ¶,H½GRMAJORZ
+CODE_SMELL
+~squid:S1226"LIntroduce a new variable instead of reusing the parameter "classController".(Ü—ÈÆøÿÿÿÿ8˜¬õÇ¶,H¾GRMINORZBUG

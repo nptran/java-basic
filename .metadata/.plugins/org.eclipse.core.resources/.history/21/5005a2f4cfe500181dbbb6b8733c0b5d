@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+package com.mystudent.service.impl;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.mystudent.model.Student;
+import com.mystudent.model.Subject;
+import com.mystudent.repository.SubjectRepository;
+import com.mystudent.service.SubjectService;
+
+/**
+ * @author Phuc Tran
+ *
+ */
+public class SubjectServiceImpl implements SubjectService {
+
+	private SubjectRepository repository;
+	
+	@Autowired
+	public SubjectServiceImpl(SubjectRepository repository) {
+		this.repository = repository;
+	}
+	
+	@Override
+	public Iterable<Subject> getAll() {
+		return repository.findAll();
+	}
+
+	@Override
+	public Optional<Subject> getOne(Integer id) {
+		return repository.findById(id);
+	}
+
+//	@Override
+//	public List<Student> getStudentFrom() {
+//		return ;
+//	}
+
+}
